@@ -190,7 +190,7 @@ What would the cosmic telephone directory look like if its contents were restric
 
 The directories for such cities as London and New York are already getting somewhat out of hand, but they list only about a million&mdash;10<sup>6</sup>&mdash;numbers. 
 The cosmic directory would be 10<sup>14</sup> times bigger, to hold its 10<sup>20</sup> numbers. 
-It would contain more pages than all the books that have ever been produced since the invention of the printing press. 
+It would contain more pages than all the books <em>that have ever been produced since the invention of the printing press</em>. 
 
 
 To continue our fantasy a little further, here is another consequence of twenty-digit telephone numbers. 

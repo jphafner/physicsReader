@@ -56,29 +56,29 @@ The main thing we have to add to the magnitude-and-direction definition of a vec
 </figure>
 
 Let us think of vectors as having definite locations.
-And let the arrow-headed line segments <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1) represent the magnitudes,
-directions, and locations of two vectors starting at a common point <span class="math">O</span>.
-Complete the parallelogram formed by <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and draw the diagonal <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>.
-Then, when taken together, the two vectors represented by <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> are equivalent to a single vector represented by the arrow-headed line segment <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>.
-This vector is called the resultant of the vectors represented by <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and the above crucial property of vectors is called the parallelogram law of combination of vectors.
+And let the arrow-headed line segments <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1) represent the magnitudes,
+directions, and locations of two vectors starting at a common point <i>O</i>.
+Complete the parallelogram formed by <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and draw the diagonal <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>.
+Then, when taken together, the two vectors represented by <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> are equivalent to a single vector represented by the arrow-headed line segment <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>.
+This vector is called the resultant of the vectors represented by <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and the above crucial property of vectors is called the parallelogram law of combination of vectors.
 
 \begin{description}
-    \item[Exercise 2.1] Find (a) by drawing and measurement, and (b) by calculation using Pythagoras&#39; theorem, the magnitude and direction of the resultant of two vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> if each has magnitude 3, and <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> points thus &rarr; while <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> points perpendicularly, thus &uparrow;.
-    [<em>Ans</em>. The magnitude is <span class="math">3 \sqrt{2}</span>, or approximately <span class="math">4.2</span>, and the direction bisects the right angle between <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.]
-    \item[Exercise 2.2] Show that the resultant of two vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> that point in the same direction is a vector pointing in the same direction and having a magnitude equal to the sum of the magnitudes of <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.
+    \item[Exercise 2.1] Find (a) by drawing and measurement, and (b) by calculation using Pythagoras&#39; theorem, the magnitude and direction of the resultant of two vectors <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> if each has magnitude 3, and <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> points thus &rarr; while <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> points perpendicularly, thus &uparrow;.
+    [<em>Ans</em>. The magnitude is <span class="math">3 \sqrt{2}</span>, or approximately <span class="math">4.2</span>, and the direction bisects the right angle between <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.]
+    \item[Exercise 2.2] Show that the resultant of two vectors <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> that point in the same direction is a vector pointing in the same direction and having a magnitude equal to the sum of the magnitudes of <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.
         [Imagine the parallelogram in [Figure 2-1](#fig2-1) squashed flat into a line.]
-    \item[Exercise 2.3] Taking a hint from Exercise 2.2, describe the resultant of two vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> that point in opposite directions.
-    \item[Exercise 2.4] In Exercise 2.3, what would be the resultant if <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> had equal magnitudes?
+    \item[Exercise 2.3] Taking a hint from Exercise 2.2, describe the resultant of two vectors <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> that point in opposite directions.
+    \item[Exercise 2.4] In Exercise 2.3, what would be the resultant if <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> had equal magnitudes?
         [Do you notice anything queer when you coropare this resultant vector with the definition of a vector?]
-    \item[Exercise 2.5] Observe that the resultant of <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> is the same as the resultant of <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>.
+    \item[Exercise 2.5] Observe that the resultant of <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> is the same as the resultant of <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>.
         [This is trivially obvious, but keep it in mind nevertheless. We shall return to it later.]
 \end{description}
 
 <dl>
   <dt>Exercise 2.1</dt>
-  <dd>Find (a) by drawing and measurement, and (b) by calculation using Pythagoras&#39; theorem, the magnitude and direction of the resultant of two vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> if each has magnitude 3, and <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> points thus <span
-      class="math">&rarr;</span> while <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> points perpendicularly, thus <span class="math">&uparrow;</span>.
-  [<em>Ans</em>. The magnitude is <span class="math">3\sqrt{2}</span>, or approximately <span class="math">4.2</span>, and the direction bisects the right angle between <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.]</dd>
+  <dd>Find (a) by drawing and measurement, and (b) by calculation using Pythagoras&#39; theorem, the magnitude and direction of the resultant of two vectors <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> if each has magnitude 3, and <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> points thus <span
+      class="math">&rarr;</span> while <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> points perpendicularly, thus <span class="math">&uparrow;</span>.
+  [<em>Ans</em>. The magnitude is <span class="math">3\sqrt{2}</span>, or approximately <span class="math">4.2</span>, and the direction bisects the right angle between <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>.]</dd>
   <dt>Exercise 2.2</dt>
   <dt>Pick holes in your definition of a door.</dt>
   <dt>Exercise 2.3</dt>
@@ -86,38 +86,38 @@ This vector is called the resultant of the vectors represented by <math displa="
 </dl>
 
 In practice, all we need to draw is half the parallelogram in [Figure 2-1](#fig2-1)&mdash;either triangle <span class="math">OPR</span> or triangle <span class="math">OQR</span>.
-When we do this it looks as if we had combined two vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>P</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> (or <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>Q</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>) end-to-end like this, even
+When we do this it looks as if we had combined two vectors <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>P</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> (or <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>Q</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>) end-to-end like this, even
 \begin{figure}
     %% NOTE: add tikz diagram
     \label{fig:2.2}
-    \caption{For clarity, the arrow heads meeting at <span class="math">R</span> have been slightly displaced.
+    \caption{For clarity, the arrow heads meeting at <i>R</i> have been slightly displaced.
         We shall occasionally displace other arrow heads under similar circumstances.}
 \end{figure}
 
 though they do not have the same starting point.
 Actually, though, we have merely combined OP and OQ by the parallelogram law. [^1]
 But suppose we were dealing with what are called free vectors&mdash;vectors having the freedom to move from one location to another,
-    so that <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>Q</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-2](#fig2-2),
+    so that <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>Q</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-2](#fig2-2),
     for example, which have the same magnitude and the same direction,
     are officially counted not as distinct vectors but as the same free vector.
 Then we could indeed combine free vectors that were quite far apart by bringing them end-to-end,
-    like <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>P</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-2](#fig2-2).
+    like <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>P</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-2](#fig2-2).
 But since we could also combine them according to the parallelogram law by moving them so that they have a common starting point,
-    like <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1),
+    like <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1),
     the parallelogram law is the basic one.
 Note that when we speak of the same direction we mean just that,
     and not opposite directions&mdash;north and south are not the same direction.
 
 \begin{description}
-    \item[Exercise 2.6] Find the resultant of the three vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> in the diagram.
+    \item[Exercise 2.6] Find the resultant of the three vectors <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> in the diagram.
         \begin{tikzpicture}
             %% NOTE: add diagram
         \end{tikzpicture}
-        <em>Solution</em> We first form the resultant, <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>, of <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> like this:
+        <em>Solution</em> We first form the resultant, <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>, of <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> like this:
         \begin{tikzpicture}
             %% NOTE: add diagram
         \end{tikzpicture}
-        and then we form the resultant, <math displa="inline"><mover><mrow><mi>O</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math>, of <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> like this :
+        and then we form the resultant, <math display="inline"><mover><mrow><mi>O</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math>, of <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> like this :
         \begin{tikzpicture}
             %% NOTE: add diagram
         \end{tikzpicture}
@@ -127,25 +127,25 @@ Note that when we speak of the same direction we mean just that,
         \begin{tikzpicture}
             %% NOTE: add diagram
         \end{tikzpicture}
-        From this we see that the resultant <math displa="inline"><mover><mrow><mi>O</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math> can be found quickly by thinking of the vectors as free vectors and combining them by placing them end-to-end;
-            <math displa="inline"><mover><mrow><mi>A</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>, which has the same magnitude and direction as <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>,
-            starts where <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> ends; and then <math displa="inline"><mover><mrow><mi>R</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math>,
-            which has the same magnitude and direction as <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math>,
-            starts where <math displa="inline"><mover><mrow><mi>A</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> ends.
-    \item[Exercise 2.7] Find, by both methods, the resultant of the vectors in Exercise 2.6, but by combining <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> first, and then combining their resultant with <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>.
+        From this we see that the resultant <math display="inline"><mover><mrow><mi>O</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math> can be found quickly by thinking of the vectors as free vectors and combining them by placing them end-to-end;
+            <math display="inline"><mover><mrow><mi>A</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>, which has the same magnitude and direction as <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>,
+            starts where <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> ends; and then <math display="inline"><mover><mrow><mi>R</mi><mi>S</mi></mrow><mo>&rarr;</mo></mover></math>,
+            which has the same magnitude and direction as <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math>,
+            starts where <math display="inline"><mover><mrow><mi>A</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> ends.
+    \item[Exercise 2.7] Find, by both methods, the resultant of the vectors in Exercise 2.6, but by combining <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> first, and then combining their resultant with <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>.
         Prove geometrically that the resultant is the same as before.
     \item[Exercise 2.8]
         \begin{tikzpicture}
             %% NOTE: add diagram
         \end{tikzpicture}
         The above diagram looks like a drawing of a box.
-        Show that if we drew only the lines <span class="math">OA</span>, <span class="math">AR</span>, <span class="math">RS</span>, and <span class="math">OS</span> we would have essentially the last figure in Exercise 2.6;
-            that if we drew only the lines <span class="math">OB</span>, <span class="math">BT</span>, <span class="math">TS</span>, and <span class="math">OS</span> we would have a corresponding figure for Exercise 2.7;
-            and that if we drew only <span class="math">OA</span>, <span class="math">AU</span>, <span class="math">US</span>, and <span class="math">OS</span> we would have a figure corresponding to our having first combined OA with OC and then their resultant with OB.
-    \item[Exercise 2.9] In Exercises 2.6, 2.7, and 2.8, is it essential that the three vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> lie in a plane?
-        Give a rule for finding the resultant of three noncoplanar vectors <mat displa="inline"h><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> that is analogous to the parallelogram law, and that might well be called the parallelepiped law.
+        Show that if we drew only the lines <i>OA</i>, <i>AR</i>, <i>RS</i>, and <i>OS</i> we would have essentially the last figure in Exercise 2.6;
+            that if we drew only the lines <i>OB</i>, <i>BT</i>, <i>TS</i>, and <i>OS</i> we would have a corresponding figure for Exercise 2.7;
+            and that if we drew only <i>OA</i>, <i>AU</i>, <i>US</i>, and <i>OS</i> we would have a figure corresponding to our having first combined OA with OC and then their resultant with OB.
+    \item[Exercise 2.9] In Exercises 2.6, 2.7, and 2.8, is it essential that the three vectors <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> lie in a plane?
+        Give a rule for finding the resultant of three noncoplanar vectors <mat display="inline"h><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> that is analogous to the parallelogram law, and that might well be called the parallelepiped law.
         Prove that their resultant is the same regardless of the order in which one combines them.
-    \item[Exercise 2.10] Find the resultant of the three vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> below by combining them in three different orders, given that vectors <math displa="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> have equal magnitudes and opposite directions.
+    \item[Exercise 2.10] Find the resultant of the three vectors <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> below by combining them in three different orders, given that vectors <math display="inline"><mover><mrow><mi>O</mi><mi>A</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>C</mi></mrow><mo>&rarr;</mo></mover></math> have equal magnitudes and opposite directions.
         Draw both the end-to-end diagrams and the full parallelogram diagrams for each case.
 \end{description}
 
@@ -163,8 +163,8 @@ And there are, unfortunately, many books about vectors that give the reader the 
 It is therefore worthwhile to explain carefully why most such objects do not obey this law, and then, by a process of abstraction, to find objects that do.
 
 
-Suppose that I live at <span class="math">A</span> and my friend lives 10 miles away at <span class="math">B</span>.
-I start from <span class="math">A</span> and walk steadily at 4 m.p.h. for 2.5 hours.
+Suppose that I live at <i>A</i> and my friend lives 10 miles away at <i>B</i>.
+I start from <i>A</i> and walk steadily at 4 m.p.h. for 2.5 hours.
 Obviously, I walk 10 miles.
 But do I reach 5?
 
@@ -172,14 +172,14 @@ You may say that this depends on the direction I take.
 But what reason is there to suppose that I keep to a fixed direction?
 The chances are overwhelming that I do not&mdash;unless I am preceded by a bulldozer or a heavy tank.
 Most likely I walk in all sorts of directions;
-    and almost certainly, I do not arrive at <span class="math">B</span>.
+    and almost certainly, I do not arrive at <i>B</i>.
 I may even end up at home.
 
 \begin{description}
     \item[Exercise 3.1] Where are all the possible places at which I can end, under the circumstances?
 \end{description}
 
-Now suppose that I start again from <span class="math">A</span> and this time end up at <span class="math">B</span>.
+Now suppose that I start again from <i>A</i> and this time end up at <i>B</i>.
 I may take four or five hours, or I may go by bus or train and get there quickly.
 Never mind how I travel or how long I take.
 Never mind how many times I change my direction, or how tired I get, or how dirty my shoes get, or whether it rained.
@@ -201,21 +201,21 @@ All four journeys are different&mdash;with the possible but highly improbable ex
 \end{description}
 
 But though the four journeys are not all the same, they yield the same shift.
-We can represent this shift by the arrow-headed line segment <span class="math">AB</span>.
+We can represent this shift by the arrow-headed line segment <i>AB</i>.
 It has both magnitude and direction.
 Indeed, it seems to have little else.
 Is it a vector?
 Let us see.
 
-Consider three places <span class="math">A</span>, <span class="math">B</span>, and <span class="math">C</span> as in Figure 3.2.
+Consider three places <i>A</i>, <i>B</i>, and <i>C</i> as in Figure 3.2.
 If I walk in a straight
 
 \begin{figure}
 \label{fig:3.2}
 \end{figure}
 
-line from <span class="math">A</span> to <span class="math">B</span> and then in a straight line from <span class="math">B</span> to <span class="math">C</span>,
-    I make a journey from <span class="math">A</span> to <span class="math">C</span>,
+line from <i>A</i> to <i>B</i> and then in a straight line from <i>B</i> to <i>C</i>,
+    I make a journey from <i>A</i> to <i>C</i>,
     but it is not the same as if I walked directly in a straight line from A to C: the scenery is different,
     and so is the amount of shoe leather consumed,
     most likely, and we can easily think of several other differences.
@@ -224,20 +224,20 @@ line from <span class="math">A</span> to <span class="math">B</span> and then in
     \item[Exercise 3.3] Why &ldquo;most likely&rdquo;?
 \end{description}
 
-Thus, though we could say that the walks from <span class="math">A</span> to <span class="math">B</span> and from <span class="math">B</span> to <span class="math">C</span> combine to give a &ldquo;resultant&rdquo; journey from <span class="math">A</span> to <span class="math">C</span>,
-    it is not a journey in a straight line from <span class="math">A</span> to <span class="math">C</span>:
+Thus, though we could say that the walks from <i>A</i> to <i>B</i> and from <i>B</i> to <i>C</i> combine to give a &ldquo;resultant&rdquo; journey from <i>A</i> to <i>C</i>,
+    it is not a journey in a straight line from <i>A</i> to <i>C</i>:
     the walks do not combine in a way reminiscent of the way in which vectors combine;
-    they combine more in the tautological sense that $2+1=2+1$ than $2+1=3$.
+    they combine more in the tautological sense that <span class="math">2 + 1 = 2 + 1</span> than <span class="math">2 + 1 = 3</span>.
 
 Journeys, then, are not vectors.
 But when we deal with shifts we ignore such things as the scenery and the amount of shoe leather consumed.
-A shift from <span class="math">A</span> to <span class="math">B</span> followed by a shift from <span class="math">B</span> to <span class="math">C</span> is indeed equivalent to a shift from <span class="math">A</span> to <span class="math">C</span>.
+A shift from <i>A</i> to <i>B</i> followed by a shift from <i>B</i> to <i>C</i> is indeed equivalent to a shift from <i>A</i> to <i>C</i>.
 And this reminds us so strongly of the vectorial situation in [Figure 2-2](#fig2-2) that we are tempted to conclude that shifts are vectors.
 But there is a crucial difference between the two situations.
 We cannot combine the above shifts in the reverse order (compare Exercise 2.5).
-There is no single equivalent to the shift from 5 to C followed by the shift from <span class="math">A</span> to <span class="math">B</span>.
+There is no single equivalent to the shift from 5 to C followed by the shift from <i>A</i> to <i>B</i>.
 We can combine two shifts only when the second begins where the first ends.
-Indeed, in [Figure 2-1](#fig2-1), just as with journeys, we cannot combine a shift from <span class="math">O</span> to <span class="math">P</span> with one from <span class="math">O</span> to <span class="math">Q</span> in either order.
+Indeed, in [Figure 2-1](#fig2-1), just as with journeys, we cannot combine a shift from <i>O</i> to <i>P</i> with one from <i>O</i> to <i>Q</i> in either order.
 Thus shifts are not vectors.
 
 
@@ -261,20 +261,20 @@ In Figure 4.1, the arrow-headed line segments AB and LM are parallel and
 \end{figure}
 
 of equal length.
-Any journey from <span class="math">A</span> to <span class="math">B</span> is bound to be different from a journey from <span class="math">L</span> to <span class="math">M</span>.
-Also, the shift from <span class="math">A</span> to <span class="math">B</span> is different from that from <span class="math">L</span> to <span class="math">M</span> because the starting points are different, as are the end points.
+Any journey from <i>A</i> to <i>B</i> is bound to be different from a journey from <i>L</i> to <i>M</i>.
+Also, the shift from <i>A</i> to <i>B</i> is different from that from <i>L</i> to <i>M</i> because the starting points are different, as are the end points.
 But the two shifts, and thus also the various journeys, yield the same displacement:
-    if, for example, <span class="math">B</span> is 5 miles north-northeast of <span class="math">A</span>, so too is <span class="math">M</span> 5 miles north-northeast of <span class="math">L</span>, and the displacement is one of 5 miles in the direction north-northeast.
+    if, for example, <i>B</i> is 5 miles north-northeast of <i>A</i>, so too is <i>M</i> 5 miles north-northeast of <i>L</i>, and the displacement is one of 5 miles in the direction north-northeast.
 
 \begin{description}
-    \item[Exercise 4.1] Starting from a point <span class="math">A</span>, a man bicycles 10 miles due east to point B, stops for lunch, sells his bicycle, and then walks 10 miles due north to point <span class="math">C</span>.
-        Another man starts from <span class="math">B</span>, walks 4 miles due north and 12 miles due east and then, feeling tired, and having brought along a surplus of travellers&#39; checks, buys a car and drives 6 miles due north and 2 miles due west, ending at point D in the pouring rain.
+    \item[Exercise 4.1] Starting from a point <i>A</i>, a man bicycles 10 miles due east to point B, stops for lunch, sells his bicycle, and then walks 10 miles due north to point <i>C</i>.
+        Another man starts from <i>B</i>, walks 4 miles due north and 12 miles due east and then, feeling tired, and having brought along a surplus of travellers&#39; checks, buys a car and drives 6 miles due north and 2 miles due west, ending at point D in the pouring rain.
         What displacement does each man undergo? [<em>Ans</em>. $10\sqrt{2}$ miles to the northeast.]
 \end{description}
 
 Now look at [Figure 2-1](#fig2-1).
-The shift from <span class="math">O</span> to <span class="math">P</span> followed by the shift from <span class="math">P</span> to <span class="math">R</span> is equivalent to the shift from <span class="math">O</span> to <span class="math">R</span>.
-The shift from <span class="math">P</span> to <span class="math">R</span> gives a displacement <span class="math">PR</span> that is the same as the displacement <span class="math">OQ</span>.
+The shift from <i>O</i> to <i>P</i> followed by the shift from <i>P</i> to <i>R</i> is equivalent to the shift from <i>O</i> to <i>R</i>.
+The shift from <i>P</i> to <i>R</i> gives a displacement <span class="math">PR</span> that is the same as the displacement <span class="math">OQ</span>.
 Therefore the displacement <span class="math">OP</span> followed by the displacement <span class="math">OQ</span> is equivalent to the displacement <span class="math">OR</span>.
 
 \begin{description}
@@ -283,7 +283,7 @@ Therefore the displacement <span class="math">OP</span> followed by the displace
 
 Thus, displacements have magnitude and direction and combine according to the parallelogram law.
 According to our definition, they are therefore vectors.
-Since displacements such as <math displa="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 4-1](#fig4-1) are counted as identical, displacements are free vectors, and thus are somewhat special.
+Since displacements such as <math display="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 4-1](#fig4-1) are counted as identical, displacements are free vectors, and thus are somewhat special.
 In general, vectors such as AB and LM are not counted as identical.
 
 
@@ -326,11 +326,11 @@ Forces are not something visible, though their effects may be visible.
 They are certainly not arrow-headed line segments,
     though after one has worked with them mathematically for a while,
     one almost comes to think they are.
-A force can be represented by an arrow-headed line segment <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> that starts at the point of application <span class="math">O</span> of the force, points in the direction of the force, and has a length proportional to the magnitude of the force&mdash;for example, a length of <span class="math">x</span> inches might represent a magnitude of <span class="math">x</span> pounds.
-When a force is represented in this way, we usually avoid wordiness by talking of &ldquo;the force <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$.&rdquo;
+A force can be represented by an arrow-headed line segment <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> that starts at the point of application <i>O</i> of the force, points in the direction of the force, and has a length proportional to the magnitude of the force&mdash;for example, a length of <i>x</i> inches might represent a magnitude of <i>x</i> pounds.
+When a force is represented in this way, we usually avoid wordiness by talking of &ldquo;the force <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>.&rdquo;
 But let us be more meticulous in our wording just here.
 To verify experimentally that forces combine according to the parallelogram law, we can make the following experiment.
-We arrange stationary weights and strings, and pulleys <span class="math">A</span> and <span class="math">B</span>, as shown, the weight <span class="math">W</span> being the
+We arrange stationary weights and strings, and pulleys <i>A</i> and <i>B</i>, as shown, the weight <i>W</i> being the
 
 
 \begin{figure}
@@ -341,13 +341,13 @@ We arrange stationary weights and strings, and pulleys <span class="math">A</spa
 sum of the weights <span class="math">W<sub>1</sub></span> and <span class="math">W<sub>2</sub></span>.
 Then along <span class="math">OA</span> we mark off a length <span class="math">OP</span> of <span class="math">W<sub>1</sub></span> inches,
     where <span class="math">W<sub>1</sub></span> is the number of pounds in the weight on the left and, thus,
-    a measure of the force with which the string attached to it pulls on the point <span class="math">O</span> where the three pieces of string meet. Similarly, we mark off on <span class="math">OB</span> a length <span class="math">OQ</span> of <span class="math">W<sub>2</sub></span> inches.
-We then bring a vertical piece of paper up to the point <span class="math">O</span>,
+    a measure of the force with which the string attached to it pulls on the point <i>O</i> where the three pieces of string meet. Similarly, we mark off on <span class="math">OB</span> a length <span class="math">OQ</span> of <span class="math">W<sub>2</sub></span> inches.
+We then bring a vertical piece of paper up to the point <i>O</i>,
     and on it complete the parallelogram defined by <span class="math">OP</span> and <span class="math">OQ</span>.
-We find that the diagonal <span class="math">OR</span> is vertical and that its length in inches is <span class="math">W</span>,
+We find that the diagonal <span class="math">OR</span> is vertical and that its length in inches is <i>W</i>,
     the number of pounds in the weight in the middle.
-We conclude that the resultant of the forces <span class="math">W<sub>1</sub></span> and <span class="math">W<sub>2</sub></span> in the strings would just balance the weight <span class="math">W</span>.
-Since the forces <span class="math">W<sub>1</sub></span> and <span class="math">W<sub>2</sub></span> also just balance the weight <span class="math">W</span>,
+We conclude that the resultant of the forces <span class="math">W<sub>1</sub></span> and <span class="math">W<sub>2</sub></span> in the strings would just balance the weight <i>W</i>.
+Since the forces <span class="math">W<sub>1</sub></span> and <span class="math">W<sub>2</sub></span> also just balance the weight <i>W</i>,
     we say that the resultant is equivalent to the two forces.
 We then do the experiment over again, with different weights, and reach a similar conclusion.
 After that, we do it yet again;
@@ -360,7 +360,7 @@ We all know that it is much easier to get through a revolving door by pushing ne
 The effect of a force depends on its location.
 Home runs are scarce when the bat fails to make contact with the ball.
 Thus forces do not behave like free vectors.
-Unlike displacements, vectors representing forces such as <math displa="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math>$ and <math displa="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math>$ in [Figure 4-1](#fig4-1),
+Unlike displacements, vectors representing forces such as <math display="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 4-1](#fig4-1),
     though they have the same magnitude and the same direction, are not counted as equivalent.
 Such vectors are called bound vectors.
 
@@ -375,7 +375,7 @@ Worse, every whole number has a next higher one, but no fraction has a next high
     for between any two fractions we can always slip infinitely many others.
 Even so, when trying to define number we might be inclined to insist that,
     given any two different numbers, one of them will always be the smaller and the other the larger.
-    Yet when we become more sophisticated and expand our horizons to include complex numbers like $2 + 3\sqrt{-1}$,
+    Yet when we become more sophisticated and expand our horizons to include complex numbers like <span class="math">2 + 3\sqrt{-1}</span>,
     we have to give up even this property of being greater or smaller, which at first seemed an absolutely essential part of the idea of number.
 With vectors too, not only are there various types,
     but we shall learn that not every one of their attributes that seems at this stage to be essential is in fact so.
@@ -387,20 +387,20 @@ One of the things that gives mathematics its power is the shedding of attributes
             \item 3 ft due east and 3 ft. due north. [Ans. 3yfY ft. to the northeast.]
             \item 5 ft due north and 5 ft. due east.
             \item 9 cm to the right and $9\sqrt{3}$ cm vertically upwards.
-                [<em>Ans</em>. 18 cm in an upward direction making $60^{\circ}$ with the horizontal towards the right.]
+                [<em>Ans</em>. 18 cm in an upward direction making 60&deg; with the horizontal towards the right.]
             \item 9 cm to the left and $9\sqrt{3}$ cm vertically downward.
             \item the resultants in parts (c) and (d).
-            \item <span class="math">x</span> units positively along the <span class="math">x</span>-axis and y units positively along the <span class="math">y</span>-axis.
-                [<em>Ans</em>, $\sqrt{x^2 + y^2}$ units in the direction making an angle $\arctan\frac{y}{x}$ with the positive <span class="math">x</span>-axis.]
+            \item <i>x</i> units positively along the <i>x</i>-axis and y units positively along the <i>y</i>-axis.
+                [<em>Ans</em>, $\sqrt{x^2 + y^2}$ units in the direction making an angle $\arctan\frac{y}{x}$ with the positive <i>x</i>-axis.]
         \end{enumerate}
     \item[Exercise 5.2] Like Exercise 5.1 for the following:
         \begin{enumerate}[label=(\alph*)]
             \item 8 km. to the left and 3 km. to the left.
             \item 5 fathoms vertically downward and 2 fathoms vertically upward.
-            \item a units to the right and $\beta$ units to the left.
+            \item a units to the right and <i>&beta;</i> units to the left.
                 [There are three different cases. What are they?
                     Show how they can be summed up in one statement.]
-            \item <span class="math">h</span> miles $60^{\circ}$ north of east and <span class="math">h</span> miles $60^{\circ}$ south of east.
+            \item <i>h</i> miles 60&deg; north of east and <i>h</i> miles 60&deg; south of east.
         \end{enumerate}
     \item[Exercise 5.3] What single force is equivalent to the following three horizontal forces acting on a particle at a point O?
         \begin{enumerate*}[label=(\alph*)]
@@ -408,27 +408,27 @@ One of the things that gives mathematics its power is the shedding of attributes
             \item magnitude 1 lb. pulling to the east
             \item magnitude $\sqrt{2}$ lb. pulling to the northwest
         \end{enumerate*}.
-        [<em>Ans</em>. 2 lbs. acting at point <span class="math">O</span> and pulling to the north.]
+        [<em>Ans</em>. 2 lbs. acting at point <i>O</i> and pulling to the north.]
     \item[Exercise 5.4] What force combined with a force at a point of 1 lb.
-        pulling to the east will yield a resultant force of 2 lbs. pulling in a direction $60^{\circ}$ north of east?
-    \item[Exercise 5.5] Vector <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$ has magnitude $2a$ and points to the right in a direction $30^{\circ}$ above the horizontal.
-        What vector combined with it will yield a vertical resultant, <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>$,
+        pulling to the east will yield a resultant force of 2 lbs. pulling in a direction 60&deg; north of east?
+    \item[Exercise 5.5] Vector <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> has magnitude <i>2a</i> and points to the right in a direction 30&deg; above the horizontal.
+        What vector combined with it will yield a vertical resultant, <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>,
         of magnitude $2\sqrt{3}$?
-    \item[Exercise 5.6] Find two forces at a point <span class="math">O</span>,
+    \item[Exercise 5.6] Find two forces at a point <i>O</i>,
         one vertical and one horizontal,
-        that have a resultant of magnitude <span class="math">h</span>, making $45^{\circ}$ with the horizontal force.
+        that have a resultant of magnitude <i>h</i>, making 45&deg; with the horizontal force.
         [Ans. The forces have magnitude $\frac{h}{\sqrt{2}}$.]
-    \item[Exercise 5.7] Find two forces at a point <span class="math">O</span>,
+    \item[Exercise 5.7] Find two forces at a point <i>O</i>,
         one vertical and one horizontal,
-        that have a resultant of magnitude <span class="math">h</span> that makes an angle of $30^{\circ}$ with the horizontal force.
-    \item[Exercise 5.8] Find two displacements, one parallel to the <span class="math">x</span>-axis and the other to the <span class="math">y</span>-axis,
-        that yield a resultant displacement of magnitude <span class="math">h</span> ft. making a positive acute angle $\alpha$ with the positive <span class="math">x</span>-direction.
-    \item[Exercise 5.9] What is the resultant of <span class="math">n</span> vectors, each starting at the point <span class="math">O</span>,
-        each having magnitude <span class="math">h</span>, and each pointing to the pole star?
-        [We could have shortened this by asking for the resultant of <span class="math">n</span> equal vectors.
+        that have a resultant of magnitude <i>h</i> that makes an angle of 30&deg; with the horizontal force.
+    \item[Exercise 5.8] Find two displacements, one parallel to the <i>x</i>-axis and the other to the <i>y</i>-axis,
+        that yield a resultant displacement of magnitude <i>h</i> ft. making a positive acute angle <i>&alpha;</i> with the positive <i>x</i>-direction.
+    \item[Exercise 5.9] What is the resultant of <i>n</i> vectors, each starting at the point <i>O</i>,
+        each having magnitude <i>h</i>, and each pointing to the pole star?
+        [We could have shortened this by asking for the resultant of <i>n</i> equal vectors.
         But we have not yet defined &ldquo;equal&rdquo; vectors&mdash;even though we have already spoken of the equality of free vectors!
         You may find it instructive to try to do so here; but be warned that it is not as easy as it seems, and that there is something lacking in the wording of the question.]
-    \item[Exercise 5.10] A particle is acted on by two forces, one of them to the west and of magnitude 1 dyne, and the other in the direction $60^{\circ}$ north of east and of magnitude 2 dynes.
+    \item[Exercise 5.10] A particle is acted on by two forces, one of them to the west and of magnitude 1 dyne, and the other in the direction 60&deg; north of east and of magnitude 2 dynes.
         What third force acting on the particle would keep it in equilibrium
         (i. e., what third force would make the resultant of all three forces have zero magnitude)?
         [Ans. Magnitude $\sqrt{3}$ dynes pointing due south.]
@@ -449,11 +449,11 @@ But the complete disappearance of the tribe through starvation is precisely what
   <dt>Exercise 6.1</dt>
   <dd>Arrow-headed line segments have magnitude and direction and are used to represent vectors. Why are they nevertheless not vectors?</dd>
   <dt>Exercise 6.2</dt>
-  <dd>Given the three vectors represented by <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1),
+  <dd>Given the three vectors represented by <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math> in [Figure 2-1](#fig2-1),
         form three new entities having the same respective directions, but having magnitudes equal to five times the magnitudes of the respective vectors.
         Prove geometrically that these new entities are so related that the third is a diagonal of the parallelogram having the other two as adjacent sides.</dd>
   <dt>Exercise 6.3</dt>
-  <dd>If in Exercise 6.2 the new entities had the same respective directions as the vectors represented by <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>, <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and <math displa="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>,
+  <dd>If in Exercise 6.2 the new entities had the same respective directions as the vectors represented by <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>, <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>, and <math display="inline"><mover><mrow><mi>O</mi><mi>R</mi></mrow><mo>&rarr;</mo></mover></math>,
         but had magnitudes that were one unit greater than the magnitudes of the corresponding vectors,
         show that the new entities would not be such that the third was a diagonal of the parallelogram having the other two as adjacent sides. </dd>
   <dt>Exercise 6.4</dt>
@@ -478,14 +478,14 @@ And if one of the vectors were somehow pink and the other green, we would probab
 But what if one of the vectors represented a force and the other a displacement? There would then be two difficulties.
 
 The first difficulty is that the vector representing a displacement would be a free vector, but the one representing the force would not.
-If, in Figure 4.1, we counted free vectors represented by <math displa="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> as equal,
-    we might find ourselves implying that forces represented by <math displa="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math displa="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> were also equal, though actually they have different effects.
-    [Even so, it is extremely convenient to say such things as &ldquo;a force acts at <span class="math">A</span> and an equal force acts at <span class="math">L</span>.&rdquo;
+If, in Figure 4.1, we counted free vectors represented by <math display="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> as equal,
+    we might find ourselves implying that forces represented by <math display="inline"><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>L</mi><mi>M</mi></mrow><mo>&rarr;</mo></mover></math> were also equal, though actually they have different effects.
+    [Even so, it is extremely convenient to say such things as &ldquo;a force acts at <i>A</i> and an equal force acts at <i>L</i>.&rdquo;
 We shall not do so in this book.
 But one can get by with saying such things once one has explained what is awkward about them, just as, in trigonometry one gets by with writing <span class="math">sin<sup>2</sup>&theta;</span> after one has explained that this does not stand for <span class="math">sin(&theta;)</span> but <span class="math">(sin&theta;)<sup>2</sup>.]
 
 As for the second difficulty about the idea of the equality of vectors, it takes us back to the definition of a vector.
-For if, in Figure 2.1, <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$ represents a force and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>$ a displacement, the two vectors will not combine by the parallelogram law at all. 
+For if, in Figure 2.1, <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> represents a force and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> a displacement, the two vectors will not combine by the parallelogram law at all. 
 We know this from experiments with forces.
 But we can appreciate the awkwardness of the situation by merely asking ourselves what the resultant would be if they did combine in this way.
 A &ldquo;disforcement&rdquo;? [^3]
@@ -502,7 +502,7 @@ Although 3 apples and 3 colors are different things,
 There does not seem to be a corresponding sense in which we could reasonably combine a vector representing a force with one representing a displacement, quite apart from the question of bound versus free vectors:
     there does not seem to be a vectorial analogue of the numerical concept of a countable item. [^4]
 
-Though <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$ and <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$ do not combine according to the parallelogram law if, for example, <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$ represents a force and <math displa="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math>$ a  displacement, they nevertheless represent vectors.
+Though <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> and <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> do not combine according to the parallelogram law if, for example, <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math> represents a force and <math display="inline"><mover><mrow><mi>O</mi><mi>Q</mi></mrow><mo>&rarr;</mo></mover></math> a  displacement, they nevertheless represent vectors.
 Evidently our definition of a vector needs even further amendment.
 We might seek to avoid trouble by retreating to the definition of a vector as &ldquo;an entity having both magnitude and direction,&rdquo;
     without mentioning the parallelogram law.
@@ -523,7 +523,7 @@ Even if we succeeded in patching up the definition to meet this particular emege
 The best thing to do is to keep an open mind and learn to live with a flexible situation, and even to relish it as something akin to the true habitat of the best research.
 
 
-[^1]: Have you noticed that we have been careless in sometimes speaking of &ldquo;the vector represented by OP,&rdquo; at other times calling it simply &ldquo;the vector <math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$,&rdquo; and now calling it just &ldquo;<math displa="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>$&rdquo;? This is deliberate&mdash;and standard practice among mathematicians. Using meticulous wording is sometimes too much of an effort once the crucial point has been made.}
+[^1]: Have you noticed that we have been careless in sometimes speaking of &ldquo;the vector represented by OP,&rdquo; at other times calling it simply &ldquo;the vector <math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>,&rdquo; and now calling it just &ldquo;<math display="inline"><mover><mrow><mi>O</mi><mi>P</mi></mrow><mo>&rarr;</mo></mover></math>&rdquo;? This is deliberate&mdash;and standard practice among mathematicians. Using meticulous wording is sometimes too much of an effort once the crucial point has been made.}
 
 [^2]: We retain, too, the recollection that we are still linked, however tenuously, with journeying, for we want to retain the idea that a movement has occurred, even though we do not care at all how or under what circumstances it occurred.
 

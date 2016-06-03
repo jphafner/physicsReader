@@ -93,11 +93,11 @@ He sort of took personal charge and let us do pretty much what we wanted except 
 We worked through all of analytical chemistry there and I got a feeling for looking for small traces of elements, etc.
 This convinced me that I wanted to be a chemist.
 A little earlier I had gotten a job with the phone company which was with a fellow studying to be a chemist.
-I read Slosson, Creative Chemistry.
+I read Slosson, <em>Creative Chemistry</em>.
 This was the romantic thing to be.
 I think that teacher had more individual influence on me than any other.&rdquo;
 
-Some firm, apparently interested in increasing the supply of chemists, had sent Creative Chemistry around to a number of high schools, and it seems to have been a very successful promotion.
+Some firm, apparently interested in increasing the supply of chemists, had sent <em>Creative Chemistry</em> around to a number of high schools, and it seems to have been a very successful promotion.
 At least several others of my subjects mentioned having been influenced by it.
 
 &ldquo;When I was still in high school I took a job one summer at a Yacht Club.

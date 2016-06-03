@@ -4,12 +4,6 @@ title: Motion
 author: Richard P. Feynman, Robert B. Leighton, and Mathew Sands
 excerpt: The treatment of speed and acceleration demonstrates the value of simple calculus in analyzing and describing motion.
 intro: Richard P. Feynman, Robert B. Leighton and Matthew Sands A chapter from <em>The Feynman Lectures on Physics&mdash;Volume 1</em>, 1963.
-image:
-    title: title_image.jpg
-    thumb: thumbnail_image.jpg
-    homepage: header_homepage_13.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
 ---
 
 ## Description of motion
@@ -38,13 +32,13 @@ Among many possible ways, one would be the following.
 To determine the position of the car at different times, we measure its distance from the starting point and record all the observations.
 
 <figure id="tab8-1">
-<table>
+<table >
   <tr>
     <th>
-      <span class="math">t</span>(min)
+      <i>t</i>(min)
     </th>
     <th>
-      <span class="math">s</span>(ft)
+      <i>s</i>(ft)
     </th>
   </tr>
   <tr><td>0</td><td>0</td></tr>
@@ -71,7 +65,7 @@ To determine the position of the car at different times, we measure its distance
 </figure>
 
 
-In [Table 8-1](#tab8-1), <span class="math">s</span> represents the distance of the car, in feet, from the starting point, and <span class="math">t</span> represents the time in minutes.
+In [Table 8-1](#tab8-1), <i>s</i> represents the distance of the car, in feet, from the starting point, and <i>t</i> represents the time in minutes.
 The first line in the table represents zero distance and zero time&mdash;the car has not started yet.
 After one minute it has started and has gone 1200 feet.
 Then in two minutes, it goes farther&mdash;notice that it picked up more distance in the second minute&mdash;it has accelerated;
@@ -128,13 +122,13 @@ Actually, one may write such a formula abstractly, as
   </mrow>
 </math>
 
-meaning that <span class="math">s</span> is some quantity depending on <span class="math">t</span> or, in mathematical phraseology,
+meaning that <i>s</i> is some quantity depending on <i>t</i> or, in mathematical phraseology,
 
 <figure id="tab8-2">
-<table>
+<table style="width:100%">>
   <tr>
-    <th><span class="math">t</span>(sec)</th>
-    <th><span class="math">s</span>(ft)</th>
+    <th><i>t</i>(sec)</th>
+    <th><i>s</i>(ft)</th>
   </tr>
   <tr><td>0</td><td>0</td></tr>
   <tr><td>1</td><td>16</td></tr>
@@ -157,7 +151,7 @@ meaning that <span class="math">s</span> is some quantity depending on <span cla
 </figcaption>
 </figure>
 
-<span class="math">s</span> is a function of <span class="math">t</span>.
+<i>s</i> is a function of <i>t</i>.
 Since we do not know what the function is, there is no way we can write it in definite algebraic form.
 
 We have now seen two examples of motion, adequately described with very simple ideas, no subtleties.
@@ -268,7 +262,7 @@ Calculus was invented in order to describe motion,
     and its first application was to the problem of defining what is meant by going &ldquo;60 miles an hour.&rdquo;
 
 Let us try to define velocity a little better.
-Suppose that in a short time, <span class="math">&epsilon;</span>, the car or other body goes a short distance <span class="math">x</span>; then the velocity, <span class="math">v</span>, is defined as
+Suppose that in a short time, <i>&epsilon;</i>, the car or other body goes a short distance <i>x</i>; then the velocity, <i>v</i>, is defined as
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v=\frac{x}{\epsilon}" display="block">
   <mrow>
@@ -281,9 +275,9 @@ Suppose that in a short time, <span class="math">&epsilon;</span>, the car or ot
   </mrow>
 </math>
 
-an approximation that becomes better and better as the <span class="math">&epsilons;</span> is taken smaller and smaller.
+an approximation that becomes better and better as the <i>&epsilons;</i> is taken smaller and smaller.
 If a mathematical expression is desired,
-we can say that the velocity equals the limit as the <span class="math">&epsilon;</span> is made to go smaller and smaller in the expression <span class="math">x/&epsilon;</span>, or
+we can say that the velocity equals the limit as the <i>&epsilon;</i> is made to go smaller and smaller in the expression <i>x&#8725;&epsilon;</i>, or
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v=\lim_{\epsilon\to 0}\frac{x}{\epsilon}" display="block" id="eq8-3">
   <mrow>
@@ -321,9 +315,9 @@ One way to do this is to see from [Table 8-2](#tab8-2) what it did in the 5<sup>
     however, that is wrong, because the speed is changing; on the average it is 144 ft/sec during this interval, but the ball is speeding up and is really going faster than 144 ft/sec.
 We want to find out <em>exactly how fast</em>.
 The technique involved in this process is the following: We know where the ball was at 5 sec.
-At 5.1 sec, the distance that it has gone all together is 16(5.1)<sup>2</sup> = 416.16 ft (see [Equatoin 8-1](#eq8-1).
+At 5.1 sec, the distance that it has gone all together is 16 (5.1)<sup>2</sup> = 416.16 ft (see [Equation 8-1](#eq8-1).
 At 5 sec it had already fallen 400 ft;
-    in the last tenth of a second it fell 416.16&minus;400=16.16 ft.
+    in the last tenth of a second it fell 416.16 &minus; 400 = 16.16 ft.
 Since 16.16 ft in 0.1 sec is the same as 161.6 ft/sec,
     that is the speed more or less, but it is not exactly correct.
 Is that the speed at 5 sec, or at 5.1 sec,
@@ -334,9 +328,36 @@ Never mind&mdash;the problem was to find the speed at 5 seconds,
 So, we take one-thousandth of a second more than 5 sec,
     or 5.001 sec, and calculate the total fall as
 
-\begin{equation}
-    s = 16 \left(5.001\right)^2 = 16 \left( 25.010001 \right) = 400.160016\, \text{ft}.
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext=" s = 16 \left(5.001\right)^2 = 16 \left( 25.010001 \right) = 400.160016\, \text{ft}." display="block" id="eq8-3">
+  <mrow>
+    <mi>s</mi>
+    <mo>=</mo>
+    <mrow>
+      <mn>16</mn>
+      <mn>&InvisibleTimes;</mn>
+      <msup>
+        <mfenced>
+          <mn>5.001</mn>
+        </mfenced>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>16</mn>
+      <mo>&InvisibleTimes;</mo>
+      <mfenced>
+        <mn>25.010001</mn>
+      </mfenced>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>400.160016</mn>
+      <mo>&InvisibleTimes;</mo>
+      <mtext>ft</mtext>
+    </mrow>
+  </mrow>
+</math>
 
 In the last 0.001 sec the ball fell 0.160016 ft,
     and if we divide this number by 0.001 sec we obtain the speed as 160.016 ft/sec.
@@ -344,13 +365,13 @@ That is closer, very close, but it is still not exact.
 It should now be evident what we must do to find the speed exactly.
 To perform the mathematics we state the problem a little more abstractly:
     to find the velocity at a special time, to, which in the original problem was 5 sec.
-    Now the distance at <span class="math">t<sub>0</sub></span>, which we call <span class="math">s<sub>0</sub></span>, is 16<span class="math">t<sub>0</sub></span>, or 400 ft in this case.
-    In order to find the velocity, we ask, &ldquo;At the time <span class="math">t<sub>0</sub></span> + (a little bit), or <span class="math">t<sub>0</sub> + &epsilon;</span>, where is the body?&rdquo;
-The new position is <span class="math">16(t<sub>0</sub> + &epsilon;)<sup>2</sup> = 16t<sub>0</sub><sup>2</sup> + 32 t<sub>0</sub> &epsilon; + 16&epsilon;<sup>2</sup></span>.
-So it is farther along than it was before, because before it was only <span class="math">16t<sub>0</sub></span>.
-This distance we shall call <span class="math">s<sub>0</sub></span> + (a little bit more), or <span class="math">s<sub>0</sub> + x</span> (if <span class="math">x</span> is the extra bit).
-Now if we subtract the distance at to from the distance at <span class="math">t<sub>0</sub> + &epsilon;</span>,
-we get <span class="math">x</span>, the extra distance gone, as <span class="math">x = 32t<sub>0</sub>&middot;&epsilon; + 16&epsilon;<sup>2</sup></span>.
+    Now the distance at <i>t</i><sub>0</sub>, which we call <i>s</i><sub>0</sub>, is 16<i>t</i><sub>0</sub>, or 400 ft in this case.
+    In order to find the velocity, we ask, &ldquo;At the time <span class="math"><i>t</i><sub>0</sub> + (a little bit)</span>, or <span class="math"><i>t</i><sub>0</sub> + <i>&epsilon;</i></span>, where is the body?&rdquo;
+The new position is <span class="math">16(<i>t</i><sub>0</sub> + <i>&epsilon;</i>)<sup>2</sup> = 16t<sub>0</sub><sup>2</sup> + 32 t<sub>0</sub> &epsilon; + 16&epsilon;<sup>2</sup></span>.
+So it is farther along than it was before, because before it was only 16<i>t</i><sub>0</sub>.
+This distance we shall call <i>s</i><sub>0</sub> + (a little bit more), or <i>s</i><sub>0</sub> + <i>x</i> (if <i>x</i> is the extra bit).
+Now if we subtract the distance at to from the distance at <i>t</i><sub>0</sub> + <i>&epsilon;</i>,
+we get <i>x</i>, the extra distance gone, as <span class="math"><i>x</i> = 32<i>t</i><sub>0</sub>&middot;<i>&epsilon;</i> + 16<i>&epsilon;</i><sup>2</sup></span>.
 Our first approximation to the velocity is
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v=\frac{x}{\epsilon}=32t_{0}+16\epsilon" display="block" id="eq8-4">
@@ -382,17 +403,17 @@ Our first approximation to the velocity is
 </math>
 
 
-The true velocity is the value of this ratio, <span class="math">x/&epsilon;</span>,
-    when <span class="math">&epsilon;</span> becomes vanishingly small.
+The true velocity is the value of this ratio, <i>x&#8725;&epsilon;</span>,
+    when <i>&epsilon;</i> becomes vanishingly small.
 In other words, after forming the ratio,
-    we take the limit as e gets smaller and smaller, that is, approaches <span class="math">0</span>.
+    we take the limit as e gets smaller and smaller, that is, approaches 0.
 The equation reduces to,
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v(at time t_0)=32 t_{0}" display="block">
   <mrow>
     <mi>v</mi>
     <mfenced>
-      <mtext>at time <span class="math">t<sub>0</sub></span></mtext>
+      <mtext>at time <i>t</i><sub>0</sub></mtext>
     </mfenced>
     <mo>=</mo>
     <mrow>
@@ -407,100 +428,431 @@ The equation reduces to,
 </math>
 
 
-In our problem, <span class="math">t</span><sub>0</sub> = 5 sec,
-so the solution is <span class="math">v</span>=32&times;5 = 160 ft/sec.
-A few lines above, where we took <span class="math">&epsilon;</span> as 0.1 sec and 0.01 sec successively,
-    the value we got for <span class="math">v</span> was a little more than this,
+In our problem, <i>t</i><sub>0</sub> = 5 sec,
+so the solution is <i>v</i>=32&times;5 = 160 ft/sec.
+A few lines above, where we took <i>&epsilon;</i> as 0.1 sec and 0.01 sec successively,
+    the value we got for <i>v</i> was a little more than this,
     but now we see that the actual velocity is precisely 160 ft/sec.
 
 ## Speed as a derivative
 
-The procedure we have just carried out is performed so often in mathematics that for convenience special notations have been assigned to our quantities <span class="math">&epsilon;</span> and <span class="math">x</span>.
-In this notation, the <span class="math">&epsilon;</span> used above becomes <span class="math">&Delta;t</span> and <span class="math">x</span> becomes <span class="math">&Delta;s</span>.
-This <span class="math">&Delta;t</span> means &ldquo;an extra bit of <span class="math">t</span>,&rdquo; and carries an implication that it can be made smaller.
-The prefix <span class="math">&Delta;</span> is not a multiplier,
+The procedure we have just carried out is performed so often in mathematics that for convenience special notations have been assigned to our quantities <i>&epsilon;</i> and <i>x</i>.
+In this notation, the <i>&epsilon;</in> used above becomes <i>&Delta;t</i> and <i>x</i> becomes <i>&Delta;s</i>.
+This &Delta;<i>t</i> means &ldquo;an extra bit of <i>t</i>,&rdquo; and carries an implication that it can be made smaller.
+The prefix &Delta; is not a multiplier,
     any more than sin &theta; means s&middot;i&middot;n&middot;&theta;&mdash;it simply defines a time increment,
     and reminds us of its special character.
-As has an analogous meaning for the distance <span class="math">s</span>.
-Since <span class="math">&Delta;</span> is not a factor,
-    it cannot be cancelled in the ratio <span class="math">&Delta;s/&Delta;t</span> to give <span class="math">s/t</span>,
+As has an analogous meaning for the distance <i>s</i>.
+Since &Delta; is not a factor,
+    it cannot be cancelled in the ratio &Delta;<i>s</i>&#8725;&Delta;<i>t</i> to give <i>s&#8725;t</i>,
     any more than the ratio sin &theta;/sin 2&theta; can be reduced to 1/2 by cancellation.
 In this notation, velocity is equal to the limit of
-    <span class="math">&Delta;s/&Delta;t</span> when <span class="math">&Delta;t</span> gets smaller, or
+    &Delta;<i>s</i>&#8725;&Delta;<i>t</i> when &Delta;<i>t</i> gets smaller, or
 
-\begin{equation}
-    v = \lim_{\Delta t \to 0} \frac{\Delta s}{\Delta t}
-    \label{eq:8.5}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v=\lim_{\Delta t\to 0}\frac{\Delta s}{\Delta t}" display="block" id="eq8-5">
+  <mrow>
+    <mi>v</mi>
+    <mo>=</mo>
+    <mrow>
+      <munder>
+        <mo movablelimits="false">lim</mo>
+        <mrow>
+          <mrow>
+            <mi mathvariant="normal">&Delta;</mi>
+            <mo>&InvisibleTimes;⁢</mo>
+            <mi>t</mi>
+          </mrow>
+          <mo>&rarr;</mo>
+          <mn>0</mn>
+        </mrow>
+      </munder>
+      <mo>⁡</mo>
+      <mfrac>
+        <mrow>
+          <mi mathvariant="normal">&Delta;</mi>
+          <mo>&InvisibleTimes;⁢</mo>
+          <mi>s</mi>
+        </mrow>
+        <mrow>
+          <mi mathvariant="normal">&Delta;</mi>
+          <mo>&InvisibleTimes;⁢</mo>
+          <mi>t</mi>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>
 
-This is really the same as our previous expression ([Equation 8.3](#eq8-3)) with <span class="math">&epsilon;</span> and <span class="math">x</span>,
+This is really the same as our previous expression ([Equation 8.3](#eq8-3)) with <i>&epsilon;</i> and <i>x</i>,
     but it has the advantage of showing that something is changing,
     and it keeps track of what is changing.
 
 Incidentally, to a good approximation we have another law,
     which says that the change in distance of a moving point is the velocity times the time interval,
-    or <span class="math">&Delta;s = v&Delta;t</span>.
+    or &Delta;<i>s</i> = <i>v</i>&Delta;<i>t</i>.
 This statement is true only if the velocity is not changing during that time interval,
-and this condition is true only in the limit as <span class="math">&Delta;t</span> goes to <span class="math">0</span>.
-Physicists like to write it <span class="math">ds = v dt</span>,
-because by <span class="math">dt</span> they mean <span class="math">&Delta;t</span> in circumstances in which it is very small;
+and this condition is true only in the limit as &Delta;<i>t</i> goes to 0.
+Physicists like to write it d<i>s</i> = <i>v</i> d<i>t</i>,
+because by d<i>t</i> they mean &Delta;<i>t</i> in circumstances in which it is very small;
     with this understanding, the expression is valid to a close approximation.
-    If <span class="math">&Delta;t</span> is too long, the velocity might change during the interval,
+    If &Delta;<i>t</i> is too long, the velocity might change during the interval,
     and the approximation would become less accurate.
-    For a time <span class="math">dt</span>, approaching zero, <span class="math">ds = v dt</span> precisely.
+    For a time d<i>t</i>, approaching zero, d<i>s</i> = <i>v</i> d<i>t</i> precisely.
 In this notation we can write ([Equation 8-5](eq8-5)) as
 
-\begin{equation}
-    \lim_{\Delta t \to 0} \frac{\Delta s}{\Delta t}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v = \lim_{\Delta t \to 0} \frac{\Delta s}{\Delta t} = \frac{ds}{dt}" display="block">
+  <mrow>
+    <mi>v</mi>
+  <mrow>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo movablelimits="false">lim</mo>
+      <mrow>
+        <mrow>
+          <mi mathvariant="normal">&Delta;</mi>
+          <mo>&InvisibleTimes;⁢</mo>
+          <mi>t</mi>
+        </mrow>
+        <mo>&rarr;</mo>
+        <mn>0</mn>
+      </mrow>
+    </munder>
+    <mfrac>
+      <mrow>
+        <mi mathvariant="normal">&Delta;</mi>
+        <mo>&InvisibleTimes;⁢</mo>
+        <mi>s</mi>
+      </mrow>
+      <mrow>
+        <mi mathvariant="normal">&Delta;</mi>
+        <mo>&InvisibleTimes;⁢</mo>
+        <mi>t</mi>
+      </mrow>
+    </mfrac>
+  <mrow>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mo>&dd;</mo>
+          <mi>s</mi>
+        </msub>
+        <mi>s</mi>
+      </mrow>
+      <mrow>
+        <mo>&dd;</mo>
+        <mi>t</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
 
-The quantity <span class="math">ds/dt</span> which we found above is called the &ldquo;derivative of <span class="math">s</span> with respect to?&rdquo;
+The quantity d<i>s</i>&#8725;d<i>t</i> which we found above is called the &ldquo;derivative of <i>s</i> with respect to?&rdquo;
 (this language helps to keep track of what was changed), and the complicated process of finding it is called finding a derivative, or differentiating.
-The <span class="math">ds</span>&#39;s and <span class="math">dt</span>&#39;s which appear separately are called <em>differentials</em>.
-To familiarize you with the words, we say we found the derivative of the function 16 <span class="math">t</span><sup>2</sup>,
-or the derivative (with respect to <span class="math">t</span>) of 16<span class="math">t</span><sup>2</sup> is 32<span class="math">t</span>.
+The d<i>s</i>&#39;s and d<i>t</i>&#39;s which appear separately are called <em>differentials</em>.
+To familiarize you with the words, we say we found the derivative of the function 16 <i>t</i><sup>2</sup>,
+or the derivative (with respect to <i>t</i>) of 16<i>t</i><sup>2</sup> is 32<i>t</i>.
 When we get used to the words, the ideas are more easily understood.
-For practice, let us find the derivative of a more complicated function. 
-We shall consider the formula <span class="math">s = At<sup>3</sup> + Bt + C</span>, which might describe the motion of a point.
-The letters <span class="math">A</span>, <span class="math">B</span>, and <span class="math">C</span> represent constant numbers, as in the familiar general form of a quadratic equation.
+For practice, let us find the derivative of a more complicated function.
+We shall consider the formula <i>s</i> = <i>At</i><sup>3</sup> + <i>Bt</i> + <i>C</i>, which might describe the motion of a point.
+The letters <i>A</i>, <i>B</i>, and <i>C</i> represent constant numbers, as in the familiar general form of a quadratic equation.
 Starting from the formula for the motion, we wish to find the velocity at any time.
-To find the velocity in the more elegant manner, we change <span class="math">t</span> to <span class="math">t + &Delta;t</span> and note that s is then changed to <span class="math">s</span> + some <span class="math">&Delta;s</span>;
-then we find the <span class="math">&Delta;s</span> in terms of <span class="math">&Delta;t</span>.
+To find the velocity in the more elegant manner, we change <i>t</i> to <span class="math"><i>t</i> + &Delta;<i>t</i></span> and note that s is then changed to <i>s</i> + some &Delta;<i>s</i>;
+then we find the &Delta;<i>s</i> in terms of &Delta;<i>t</i>.
 That is to say,
 
-\begin{align}
-    s + \Delta s &= A \left(t + \Delta t\right)^3 + B \left( t + \Delta t\right) + C  \\
-                 &= A t^3 + Bt + C + 3At^2\Delta{}t + B\Delta{}t + 3At(\Delta t)^2 + A (\Delta t)^3
-\end{align}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="s + \Delta s &= A \left(t + \Delta t\right)^3 + B \left( t + \Delta t\right) + C  &= A t^3 + Bt + C + 3At^2\Delta{}t + B\Delta{}t + 3At(\Delta t)^2 + A (\Delta t)^3" display="block">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mrow>
+          <mrow>
+            <mi>s</mi>
+          <mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>&Delta;</mo>
+            <mi>s</mi>
+          <mrow>
+        </mrow>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mi>A</mi>
+            <msup>
+              <mfenced>
+                <mi>t</mi>
+                <mo>+</mo>
+                <mrow>
+                  <mo>&Delta;</mo>
+                  <mi>t</mi>
+                </mrow>
+              </mfenced>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>B</mi>
+            <mfenced>
+              <mi>t</mi>
+              <mo>+</mo>
+              <mrow>
+                <mo>&Delta;</mo>
+                <mi>t</mi>
+              </mrow>
+            </mfenced>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>C</mi>
+          </mrow>
+        </mrow>
+      </mtr>
+      <mtr>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mi>A</mi>
+            <msup>
+              <mi>t</mi>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>B</mi>
+            <mi>t</mi>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>C</mi>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mn>3</mn>
+            <mi>A</mi>
+            <msup>
+              <mi>t</mi>
+              <mn>2</mn>
+            </msup>
+            <mo>&Delta;</mo>
+            <mi>t</mi>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>B</mi>
+            <mo>&Delta;</mo>
+            <mi>t</mi>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mn>3</mn>
+            <mi>A</mi>
+            <mi>t</mi>
+            <msup>
+              <mfenced>
+                <mo>&Delta;</mo>
+                <mi>t</mi>
+              </mfenced>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mi>A</mi>
+            <msup>
+              <mfenced>
+                <mo>&Delta;</mo>
+                <mi>t</mi>
+              </mfenced>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+        </mrow>
+      </mtr>
+    </mtable>
+  <mrow>
+</math>
 
 but since
 
-\begin{equation}
-    s =  At^3 + B t + C,
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="s = At^3 + Bt + C" display="block">
+  <mrow>
+    <mi>s</mi>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mi>A</mi>
+        <mo>&InvisibleTimes;⁢</mo
+        <msup>
+          <mi>t</mi>
+          <mn>3</mn>
+        </msup>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mi>B</mi>
+        <mo>&InvisibleTimes;⁢</mo>
+        <mi>t</mi>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mi>C</mi>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>
 
 we find that
 
-\begin{equation}
-   \Delta s = 3At^2 \Delta t + B\Delta t + 3At \Delta t + A(\Delta t)^3
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\Delta s = 3At^2 \Delta t + B\Delta t + 3At \Delta t + A(\Delta t)^3" display="block">
+  <mrow>
+    <mo>&Delta;</mo>
+    <mo>&InvisibleTimes;</mo>
+    <mi>s</mi>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mn>3</mn>
+      <mi>A</mi>
+      <msup>
+        <mi>t</mi>
+        <mn>3</mn>
+      </msup>
+      <mo>&Delta;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>B</mi>
+      <mo>&Delta;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mn>3</mn>
+      <mi>A</mi>
+      <msup>
+        <mfenced>
+          <mo>&Delta;</mo>
+          <mi>t</mi>
+        </mfenced>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>A</mi>
+      <msup>
+        <mfenced>
+          <mo>&Delta;</mo>
+          <mi>t</mi>
+        </mfenced>
+        <mn>3</mn>
+      </msup>
+    </mrow>
+  </mrow>
+</math>
 
-But we do not want <span class="math">&Delta;s</span>&mdash;we want <span class="math">&Delta;s</span> divided by <span class="math">&Delta;t</span>.
-We divide the preceding equation by <span class="math">&Delta;t</span>, getting
+But we do not want &Delta;<i>s</i>&mdash;we want &Delta;<i>s</i> divided by &Delta;<i>t</i>.
+We divide the preceding equation by &Delta;<i>t</i>, getting
 
-\begin{equation}
-    \frac{\Delta s}{\Delta t} = 3 \Delta t^2 + B + 3At(\Delta t) + A(\Delta t)^2.
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{\Delta s}{\Delta t} = 3 \Delta t^2 + B + 3At(\Delta t) + A(\Delta t)^2" display="block">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&Delta;</mo>
+        <mi>s</mi>
+      </mrow>
+      <mrow>
+        <mo>&Delta;</mo>
+        <mi>t</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mn>3</mn>
+      <mi>A</mi>
+      <msup>
+        <mi>t</mi>
+        <mn>3</mn>
+      </msup>
+      <mo>&Delta;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>B</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mn>3</mn>
+      <mi>A</mi>
+      <msub>
+        <mfenced>
+          <mo>&Delta;</mo>
+          <mi>t</mi>
+        </mfenced>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>A</mi>
+      <msup>
+        <mfenced>
+          <mo>&Delta;</mo>
+          <mi>t</mi>
+        </mfenced>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mrow>
+</math>
 
-As <span class="math">&Delta;t</span> goes toward the limit of <span class="math">&Delta;s/&Delta;t</span> is <span class="math">ds/dt</span> and is equal to
+As &Delta;<i>t</i> goes toward the limit of &Delta;<i>s</i>&#8725;&Delta;<i>t</i> is d<i>s</i>&#8725;d<i>t</i> and is equal to
 
-\begin{equation}
-    \frac{ds}{dt} = 3At^2 + B.
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt} = 3At^2 + B" display="block">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&Delta;</mo>
+        <mi>s</mi>
+      </mrow>
+      <mrow>
+        <mo>&Delta;</mo>
+        <mi>t</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mn>3</mn>
+      <mi>A</mi>
+      <msup>
+        <mi>t</mi>
+        <mn>3</mn>
+      </msup>
+      <mo>&Delta;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>B</mi>
+    </mrow>
+  </mrow>
+</math>
 
 This is the fundamental process of calculus, differentiating functions.
 The process is even more simple than it appears.
-Observe that when these expansions contain any term with a square or a cube or any higher power of <span class="math">&Delta;t</span>,
+Observe that when these expansions contain any term with a square or a cube or any higher power of &Delta;<i>t</i>,
     such terms may be dropped at once,
     since they will go to when the limit is taken.
 After a little practice the process gets easier because one knows what to leave out.
@@ -510,26 +862,26 @@ These can be memorized,
 A short list is found in [Table 8-3](tab8-3).
 
 <figure id="tab8-3">
-<table>
+<table style="width:100%">>
   <tr>
     <th>Function</th>
     <th>Derivative</th>
   </tr>
   <!--Row 1-->
   <tr>
-    <td><span class="math">s = t<sup>n</sup></span></td>
+    <td><i>s</i> = <i>t</i><sup>n</sup></td>
     <td>
       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt}=nt^{n-1}" display="inline">
-        <mrow>    
+        <mrow>
           <mfrac>
-            <mrow>    
+            <mrow>
               <mo>&dd;</mo>
               <mi>s</mi>
-            </mrow>    
-            <mrow>    
+            </mrow>
+            <mrow>
               <mo>&dd;</mo>
               <mi>t</mi>
-            </mrow>    
+            </mrow>
           </mfrac>
           <mo>=</mo>
           <mrow>
@@ -544,141 +896,141 @@ A short list is found in [Table 8-3](tab8-3).
               </mrow>
             </msup>
           </mrow>
-        </mrow>    
+        </mrow>
       </math>
     </td>
   </tr>
   <!--Row 2-->
   <tr>
-    <td><span class="math">s = cu</span></td>
+    <td><i>s</i> = <i>cu</i></td>
     <td>
       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt}=nt^{n-1}" display="inline">
-        <mrow>    
+        <mrow>
           <mfrac>
-            <mrow>    
+            <mrow>
               <mo>&dd;</mo>
               <mi>s</mi>
-            </mrow>    
-            <mrow>    
+            </mrow>
+            <mrow>
               <mo>&dd;</mo>
               <mi>t</mi>
-            </mrow>    
+            </mrow>
           </mfrac>
           <mo>=</mo>
           <mrow>
             <mi>c</mi>
             <mo>&InvisibleTimes;</mo>
             <mfrac>
-              <mrow>    
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>u</mi>
-              </mrow>    
-              <mrow>    
+              </mrow>
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>t</mi>
-              </mrow>    
+              </mrow>
             </mfrac>
-          </mrow>    
-        </mrow>    
+          </mrow>
+        </mrow>
       </math>
     </td>
   </tr>
   <!--Row 3-->
   <tr>
-    <td><span class="math">s = u + v + w + &middot;</span></td>
+    <td><i>s</i> = <i>u</i> + <i>v</i> + <i>w</i> + &middot;</td>
     <td>
       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt}=nt^{n-1}" display="inline">
-        <mrow>    
+        <mrow>
           <mfrac>
-            <mrow>    
+            <mrow>
               <mo>&dd;</mo>
               <mi>s</mi>
-            </mrow>    
-            <mrow>    
+            </mrow>
+            <mrow>
               <mo>&dd;</mo>
               <mi>t</mi>
-            </mrow>    
+            </mrow>
           </mfrac>
           <mo>=</mo>
           <mrow>
             <mfrac>
-              <mrow>    
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>u</mi>
-              </mrow>    
-              <mrow>    
+              </mrow>
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>t</mi>
-              </mrow>    
+              </mrow>
             </mfrac>
             <mo>+</mo>
             <mfrac>
-              <mrow>    
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>v</mi>
-              </mrow>    
-              <mrow>    
+              </mrow>
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>t</mi>
-              </mrow>    
+              </mrow>
             </mfrac>
             <mo>+</mo>
             <mfrac>
-              <mrow>    
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>w</mi>
-              </mrow>    
-              <mrow>    
+              </mrow>
+              <mrow>
                 <mo>&dd;</mo>
                 <mi>t</mi>
-              </mrow>    
+              </mrow>
             </mfrac>
             <mo>+</mo>
             <ms>&middot;</ms>
-          </mrow>    
-        </mrow>    
+          </mrow>
+        </mrow>
       </math>
     </td>
   </tr>
   <!--Row 4-->
   <tr>
-    <td><span class="math">s = c</span></td>
+    <td><i>s</i> = <i>c</i></td>
     <td>
       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt}=nt^{n-1}" display="inline">
-        <mrow>    
+        <mrow>
           <mfrac>
-            <mrow>    
+            <mrow>
               <mo>&dd;</mo>
               <mi>s</mi>
-            </mrow>    
-            <mrow>    
+            </mrow>
+            <mrow>
               <mo>&dd;</mo>
               <mi>t</mi>
-            </mrow>    
+            </mrow>
           </mfrac>
           <mo>=</mo>
           <mrow>
             <mn>0</mn>
-          </mrow>    
-        </mrow>    
+          </mrow>
+        </mrow>
       </math>
     </td>
   </tr>
   <!--Row 5-->
   <tr>
-      <td><span class="math">s = u<sup>a</sup> v<sup>b</sup> w<sup>c</sup> &hellip;</span></td>
+      <td><i>s</i> = <i>u</i><sup>a</sup> <i>v</i><sup>b</sup> <i>w</i><sup>c</sup> &hellip;</td>
     <td>
       <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{ds}{dt}=nt^{n-1}" display="inline">
-        <mrow>    
+        <mrow>
           <mfrac>
-            <mrow>    
+            <mrow>
               <mo>&dd;</mo>
               <mi>s</mi>
-            </mrow>    
-            <mrow>    
+            </mrow>
+            <mrow>
               <mo>&dd;</mo>
               <mi>t</mi>
-            </mrow>    
+            </mrow>
           </mfrac>
           <mo>=</mo>
           <mrow>
@@ -686,89 +1038,89 @@ A short list is found in [Table 8-3](tab8-3).
             <mfenced>
               <mrow>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mi>a</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mi>u</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>u</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>t</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
               </mrow>
               <mo>+</mo>
               <mrow>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mi>b</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mi>v</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>v</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>t</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
               </mrow>
               <mo>+</mo>
               <mrow>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mi>c</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mi>w</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
                 <mfrac>
-                  <mrow>    
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>w</mi>
-                  </mrow>    
-                  <mrow>    
+                  </mrow>
+                  <mrow>
                     <mo>&dd;</mo>
                     <mi>t</mi>
-                  </mrow>    
+                  </mrow>
                 </mfrac>
               </mrow>
               <mo>+</mo>
               <ms>&middot;</ms>
             </mfenced>
-          </mrow>    
-        </mrow>    
+          </mrow>
+        </mrow>
       </math>
     </td>
   </tr>
 </table>
 <figcaption>
     Table 8-3. A Short Table of Derivatives:
-    <span class="math">s</span>, <span class="math">u</span>, <span class="math">v</span>, <span class="math">w</span> are arbitrary functions of <span class="math">t</span>; <span class="math">a</span>, <span class="math">b</span>, <span class="math">c</span>, and <span class="math">n</span> are arbitrary constants.
+    <i>s</i>, <i>u</i>, <i>v</i>, <i>w</i> are arbitrary functions of <i>t</i>; <i>a</i>, <i>b</i>, <i>c</i>, and <i>n</i> are arbitrary constants.
 </figcaption>
 </figure>
 
 <figure id="tab8-4">
-<table>
+<table style="width:100%">>
   <tr>
     <th>
-      <span class="math">t</span>(sec)
+      <i>t</i>(sec)
     </th>
     <th>
-      <span class="math">v</span>(ft/sec)
+      <i>v</i>(ft/sec)
     </th>
   </tr>
   <tr><td>0</td><td>0</td></tr>
@@ -800,16 +1152,16 @@ If the speed of the car is not constant, and the lady goes sixty miles an hour f
 That is easy.
 We use the same idea, and express the distance in terms of infinitesimals.
 Let us say, &ldquo;In the first second her speed was such and such,
-and from the formula <span class="math">&Delta; s = v &Delta; t</span> we can calculate how far the car went the first second at that speed.&rdquo;
+and from the formula &Delta;<i>s</i> = <i>v</i> &Delta;<i>t</i> we can calculate how far the car went the first second at that speed.&rdquo;
 Now in the next second her speed is nearly the same, but slightly different;
     we can calculate how far she went in the next second by taking the new speed times the time.
 We proceed similarly for each second, to the end of the run.
 We now have a number of little distances,
     and the total distance will be the sum of all these little pieces.
 That is, the distance will be the sum of the velocities times the times,
-or <span class="math">s = &sum; v&Delta;t</span>, where the Greek letter <span class="math">&Sigma;</span> (sigma) is used to denote addition.
+or <i>s</i> = &sum; <i>v</i>&Delta;<i>t</i>, where the Greek letter &Sigma; (sigma) is used to denote addition.
 To be more precise, it is the sum of the velocity at a certain time,
-let us say the <span class="math">i</span><sup>th</sup> time, multiplied by <span class="math">&Delta;t</span>.
+let us say the <i>i</i><sup>th</sup> time, multiplied by &Delta;<i>t</i>.
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="s=\sum_{i} v(t_i) \Delta t" display="block", id="eq8-6">
   <mrow>
@@ -836,17 +1188,13 @@ let us say the <span class="math">i</span><sup>th</sup> time, multiplied by <spa
 </math>
 
 
-The rule for the times is that <span class="math">t<sub>i+i</sub> = t<sub>i</sub> + &Delta;t</span>.
+The rule for the times is that <i>t</i><sub>i+i</sub> = <i>t</i><sub>i</sub> + &Delta;<i>t</i>.
 However, the distance we obtain by this method will not be correct,
-because the velocity changes during the time interval <span class="math">&Delta;t</span>.
+because the velocity changes during the time interval &Delta;<i>t</i>.
 If we take the times short enough, the sum is precise,
     so we take them smaller and smaller until we obtain the desired accuracy.
-The true <span class="math">s</span> is
+The true <i>s</i> is
 
-\begin{equation}
-    s = \lim_{\Delta t \to 0} \sum_i  v(t_i) \Delta t
-    \label{eq:8.7}
-\end{equation}
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="s = \lim_{\Delta t \to 0} \sum_i  v(t_i) \Delta t" display="block", id="eq8-7">
   <mrow>
     <mi>s</mi>
@@ -859,14 +1207,14 @@ The true <span class="math">s</span> is
             <mo>&Delta;</mo>
             <mi>t</mi>
           </mrow>
-          <mo>&rarr;</mo> 
-          <mn>0</mn> 
+          <mo>&rarr;</mo>
+          <mn>0</mn>
         </mrow>
       </munder>
       <mrow>
         <munder>
           <mo largeop="true" moveablelimits="false" symmetric="true">&sum;</mo>
-          <mi>i</mi> 
+          <mi>i</mi>
         </munder>
         <mrow>
           <mi>v</mi>
@@ -886,8 +1234,8 @@ The true <span class="math">s</span> is
 
 The mathematicians have invented a symbol for this limit,
     analogous to the symbol for the differential.
-The <span class="math">&Delta;</span> turns into a <span class="math">d</span> to remind us that the time is as small as it can be;
-    the velocity is then called <span class="math">v</span> at the time <span class="math">t</span>,
+The &Delta; turns into a <i>d</i> to remind us that the time is as small as it can be;
+    the velocity is then called <i>v</i> at the time <i>t</i>,
     and the addition is written as a sum with a great &ldquo;s,&rdquo; &int; (from the Latin <em>summa</em>),
     which has become distorted and is now unfortunately just called an integral sign.
 Thus we write
@@ -914,7 +1262,7 @@ Thus we write
 
 This process of adding all these terms together is called integration,
     and it is the opposite process to differentiation.
-The derivative of this integral is <span class="math">v</span>, so one operator (<span class="math">d</span>) undoes the other (&int;).
+The derivative of this integral is <i>v</i>, so one operator (<i>d</i>) undoes the other (&int;).
 One can get formulas for integrals by taking the formulas for derivatives and running them backwards,
     because they are related to each other inversely.
 Thus one can work out his own table of integrals by differentiating all sorts of functions.
@@ -926,7 +1274,7 @@ Every function can be differentiated analytically,
     and leads to a definite function.
 But it is not possible in a simple manner to write an analytical value for any integral at will.
 You can calculate it, for instance, by doing the above sum,
-and then doing it again with a finer interval <span class="math">&Delta;t</span> and again with a finer interval until you have it nearly right.
+and then doing it again with a finer interval &Delta;<i>t</i> and again with a finer interval until you have it nearly right.
 In general, given some particular function, it is not possible to find,
     analytically, what the integral is.
 One may always try to find a function which, when differentiated, gives some desired function;
@@ -935,7 +1283,7 @@ One may always try to find a function which, when differentiated, gives some des
 
 ## Acceleration
 
-The next step in developing the equations of motion is to introduce another idea which goes beyond the concept of velocity to that of change of velocity, and we now ask, "How does the velocity change?&rdquo;
+The next step in developing the equations of motion is to introduce another idea which goes beyond the concept of velocity to that of change of velocity, and we now ask, &ldquo;How does the velocity change?&rdquo;
 In previous chapters we have discussed cases in which forces produce changes in velocity.
 You may have heard with great excitement about some car that can get from rest to 60 miles an hour in ten seconds flat.
 From such a performance we can see how fast the speed changes, but only on the average.
@@ -943,15 +1291,15 @@ What we shall now discuss is the next level of complexity,
     which is how fast the velocity is changing.
 In other words, by how many feet per second does the velocity change in a second,
     that is, how many feet per second, per second?
-    We previously derived the formula for the velocity of a falling body as <span class="math">y = 32t</span>,
+    We previously derived the formula for the velocity of a falling body as <i>y</i> = 32<i>t</i>,
     which is charted in [Table 8-4](tab8-4),
     and now we want to find out how much the velocity changes per second;
     this quantity is called the acceleration.
 
 Acceleration is defined as the time rate of change of velocity.
-From the preceding discussion we know enough already to write the acceleration as the derivative <span class="math">dv/dt</span>,
+From the preceding discussion we know enough already to write the acceleration as the derivative d<i>v</i>&#8725;d<i>t</i>,
     in the same way that the velocity is the derivative of the distance.
-    If we now differentiate the formula <span class="math">v=32t</span> we obtain,
+    If we now differentiate the formula <i>v</i>=32<i>t</i> we obtain,
     for a falling body,
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="a = \frac{dv}{dt} = 32" display="block" id="eq8-9">
@@ -977,8 +1325,8 @@ From the preceding discussion we know enough already to write the acceleration a
   </mrow>
 </math>
 
-[To differentiate the term <span class="math">32t</span> we can utilize the result obtained in a previous problem, where we found that the derivative of <span class="math">Bt</span> is simply <span class="math">B</span> (a constant).
-So by letting <span class="math">B = 32</span>, we have at once that the derivative of <span class="math">32t</span> is 32.]
+[To differentiate the term 32<i>t</i> we can utilize the result obtained in a previous problem, where we found that the derivative of <i>Bt</i> is simply <i>B</i> (a constant).
+So by letting <i>B</i> = 32, we have at once that the derivative of 32<i>t</i> is 32.]
 This means that the velocity of a falling body is changing by 32 feet per second, per second always.
 We also see from [Table 8-4](tab8-4) that the velocity increases by 32 feet per second in each second.
 This is a very simple case, for accelerations are usually not constant.
@@ -1016,7 +1364,7 @@ Starting with
   </mrow>
 </math>
 
-we obtained, for <span class="math">v = ds/dt</span>,
+we obtained, for <i>v</i> = d<i>s</i>&#8725;d<i>t</i>,
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="x = 3 At^2 + B" display="block">
   <mrow>
@@ -1044,17 +1392,17 @@ we obtained, for <span class="math">v = ds/dt</span>,
 Since acceleration is the derivative of the velocity with respect to the time,
     we need to differentiate the last expression above.
 Recall the rule that the derivative of the two terms on the right equals the sum of the derivatives of the individual terms.
-To differentiate the first of these terms, instead of going through the fundamental process again we note that we have already differentiated a quadratic term when we differentiated <span class="math">16t<sup>2</sup></span>,
-and the effect was to double the numerical coefficient and change the <span class="math">t<sup>2</sup></span> to <span class="math">t</span>;
+To differentiate the first of these terms, instead of going through the fundamental process again we note that we have already differentiated a quadratic term when we differentiated 16<i>t</i><sup>2</sup>,
+and the effect was to double the numerical coefficient and change the <i>t</i><sup>2</sup> to <i>t</i>;
     let us assume that the same thing will happen this time, and you can check the result yourself.
-    The derivative of <span class="math">3At<sup>2</sup></span> will then be <span class="math">6At</span>.
-Next we differentiate <span class="math">B</span>, a constant term; but by a rule stated previously,
-    the derivative of <span class="math">B</span> is zero; hence this term contributes nothing to the acceleration.
-The final result, therefore, is <span class="math">a = dv/dt = 6At</span>.
+    The derivative of 3<i>At</i><sup>2</sup> will then be 6<i>At</i>.
+Next we differentiate <i>B</i>, a constant term; but by a rule stated previously,
+    the derivative of <i>B</i> is zero; hence this term contributes nothing to the acceleration.
+The final result, therefore, is <i>a</i> = d<i>v</i>&#8725;d<i>t</i> = 6<i>At</i>.
 
 For reference, we state two very useful formulas, which can be obtained by integration.
-If a body starts from rest and moves with a constant acceleration, <span class="math">g</span>,
-    its velocity <span class="math">v</span> at any time <span class="math">t</span> is given by
+If a body starts from rest and moves with a constant acceleration, <i>g</i>,
+    its velocity <i>v</i> at any time <i>t</i> is given by
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v = g t" display="block">
   <mrow>
@@ -1098,7 +1446,7 @@ The distance it covers in the same time is
 </math>
 
 Various mathematical notations are used in writing derivatives.
-Since velocity is <span class="math">ds/dt</span> and acceleration is the time derivative of the velocity,
+Since velocity is d<i>s</i>&#8725;d<i>t</i> and acceleration is the time derivative of the velocity,
     we can also write
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="a = \frac{d}{dt} \left(\frac{ds}{dt}\right) = \frac{d^2 s}{dt^2}" display="block" id="eq8-10">
@@ -1153,13 +1501,13 @@ Since velocity is <span class="math">ds/dt</span> and acceleration is the time d
 which are common ways of writing a second derivative.
 
 We have another law that the velocity is equal to the integral of the acceleration.
-This is just the opposite of <span class="math">a = dv/dt</span>;
+This is just the opposite of <i>a</i> = d<i>v</i>&#8725;d<i>t</i>;
     we have already seen that distance is the integral of the velocity,
     so distance can be found by twice integrating the acceleration.
 
 In the foregoing discussion the motion was in only one dimension,
     and space permits only a brief discussion of motion in three dimensions.
-Consider a particle <span class="math">P</span> which moves in three dimensions in any manner whatsoever.
+Consider a particle <i>P</i> which moves in three dimensions in any manner whatsoever.
 At the beginning of this chapter,
     we opened our discussion of the one-dimensional case of a moving car by observing the distance of the car from its starting point at various times.
 We then discussed velocity in terms of changes of these distances with time,
@@ -1169,16 +1517,16 @@ It will be simpler to illustrate the motion on a two-dimensional diagram,
     and then extend the ideas to three dimensions.
 We establish a pair of axes at right angles to each other,
     and determine the position of the particle at any moment by measuring how far it is from each of the two axes.
-Thus each position is given in terms of an <span class="math">x</span>-distance and a <span class="math">y</span>-distance,
+Thus each position is given in terms of an <i>x</i>-distance and a <i>y</i>-distance,
     and the motion can be described by constructing a table in which both these distances are given as functions of time.
 (Extension of this process to three dimensions requires only another axis,
-at right angles to the first two, and measuring a third distance, the <span class="math">z</span>-distance.
+at right angles to the first two, and measuring a third distance, the <i>z</i>-distance.
 The distances are now measured from coordinate planes instead of lines.)
-Having constructed a table with <span class="math">x</span>- and <span class="math">y</span>-distances,
+Having constructed a table with <i>x</i>- and <i>y</i>-distances,
     how can we determine the velocity?
 We first find the components of velocity in each direction.
-The horizontal part of the velocity, or <span class="math">x</span>-component,
-    is the derivative of the <span class="math">x</span>-distance with respect to the time, or
+The horizontal part of the velocity, or <i>x</i>-component,
+    is the derivative of the <i>x</i>-distance with respect to the time, or
 
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v_y = \frac{dx}{dt}" display="block" id="eq8-11">
@@ -1203,7 +1551,7 @@ The horizontal part of the velocity, or <span class="math">x</span>-component,
   </mrow>
 </math>
 
-Similarly, the vertical part of the velocity, or <span class="math">y</span>-component, is
+Similarly, the vertical part of the velocity, or <i>y</i>-component, is
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v_y = \frac{dy}{dt}" display="block" id="eq8-12">
   <mrow>
@@ -1254,34 +1602,137 @@ In the third dimension,
 Now, given the components of velocity,
     how can we find the velocity along the actual path of motion?
 In the two-dimensional case, consider two successive positions of the particle,
-    separated by a short distance A5 and a short time interval <span class="math">t<sub>2</sub>&minus;t<sub>1</sub> = &Delta;t</span>.
-    In the time <span class="math">&Delta;t</span> the particle moves horizontally a distance <span class="math">&Delta;x &sim; v<sub>x</sub> &Delta;t</span>,
-    and vertically a distance <span class="math">&Delta;y &sim; v<sub>y</sub>&Delta;t</span>.
+    separated by a short distance A5 and a short time interval <i>t</i><sub>2</sub>&minus;<i>t</i><sub>1</sub> = &Delta;<i>t</i>.
+    In the time &Delta;<i>t</i> the particle moves horizontally a distance &Delta;<i>x</i> &sim; <i>v</i><sub>x</sub> &Delta;<i>t</i>,
+    and vertically a distance &Delta;<i>y</i> &sim; <i>v</i><sub>y</sub>&Delta;<i>t</i>.
 (The symbol &ldquo;&sim;&rdquo; is read &ldquo;is approximately.&rdquo;)
 The actual distance moved is approximately
 
-<!-- NOTE: TODO: start here-->
-\begin{equation}
-    \Delta s \propto \sqrt{ \left(\Delta x\right)^2 + \left(\Delta y\right)^2 }
-    \label{eq:8.14}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\Delta s \propto \sqrt{ \left(\Delta x\right)^2 + \left(\Delta y\right)^2 }" display="block" id="eq8-14">
+  <mrow>
+    <mrow>
+      <mo>&Delta;</mo>
+      <mi>s</mi>
+    </mrow>
+    <mo>&sim;</mo>
+    <mrow>
+      <msqrt>
+        <msup>
+          <mfenced>
+            <mo>&Delta;</mo>
+            <mi>x</mi>
+          </mfenced>
+          <mn>2</mn>
+        <msup>
+        <mo>+</mo>
+        <msup>
+          <mfenced>
+            <mo>&Delta;</mo>
+            <mi>y</mi>
+          </mfenced>
+          <mn>2</mn>
+        <msup>
+      </msqrt>
+    </mrow>
+  </mrow>
+</math>
 
 as shown in [Figure 8-3](fig8-3).
-The approximate velocity during this interval can be obtained by dividing by <span class="math">&Delta;t</span> and by letting <span class="math">&Delta;t</span> go to <span class="math">0</span>,
+The approximate velocity during this interval can be obtained by dividing by &Delta;<i>t</i> and by letting &Delta;<i>t</i> go to 0,
     as at the beginning of the chapter.
 We then get the velocity as
 
-\begin{equation}
-    v = \frac{ds}{dt} = \sqrt{ \left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2 } = \sqrt{ v_x^2 + v_y^2 }
-    \label{eq:8.15}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v = \frac{ds}{dt} = \sqrt{ \left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2 } = \sqrt{ v_x^2 + v_y^2 }" display="block" id="eq8-15">
+  <mrow>
+    <mrow>
+      <mi>v</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <msqrt>
+        <msup>
+          <mfenced>
+            <mfrac>
+              <mrow>
+                <mo>&dd;</mo>
+                <mi>x</mi>
+              </mrow>
+              <mrow>
+                <mo>&dd;</mo>
+                <mi>t</mi>
+              </mrow>
+            </mfrac>
+          </mfenced>
+          <mn>2</mn>
+        <msup>
+        <mo>+</mo>
+        <msup>
+          <mfenced>
+            <mfrac>
+              <mrow>
+                <mo>&dd;</mo>
+                <mi>y</mi>
+              </mrow>
+              <mrow>
+                <mo>&dd;</mo>
+                <mi>t</mi>
+              </mrow>
+            </mfrac>
+          </mfenced>
+          <mn>2</mn>
+        <msup>
+      </msqrt>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <msqrt>
+        <msupsub>
+          <mi>v</mi>
+          <mn>2</mn>
+          <mi>x</mi>
+        </msupsub>
+        <mo>+</mo>
+        <msupsub>
+          <mi>v</mi>
+          <mn>2</mn>
+          <mi>y</mi>
+        </msupsub>
+      </msqrt>
+    </mrow>
+  </mrow>
+</math>
 
 For three dimensions the result is
 
-\begin{equation}
-    v = \sqrt{ v_x^2 + v_y^2 + v_z^2 }
-    \label{eq:8.16}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v = \sqrt{ v_x^2 + v_y^2 + v_z^2 }" display="block" id="eq8-16">
+  <mrow>
+    <mrow>
+      <mi>v</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <msqrt>
+        <msupsub>
+          <mi>v</mi>
+          <mn>2</mn>
+          <mi>x</mi>
+        </msupsub>
+        <mo>+</mo>
+        <msupsub>
+          <mi>v</mi>
+          <mn>2</mn>
+          <mi>y</mi>
+        </msupsub>
+        <mo>+</mo>
+        <msupsub>
+          <mi>v</mi>
+          <mn>2</mn>
+          <mi>z</mi>
+        </msupsub>
+      </msqrt>
+    </mrow>
+  </mrow>
+</math>
 
 <figure id="fig8-3">
 <!-- Insert SVG graph -->
@@ -1298,40 +1749,87 @@ For three dimensions the result is
 </figure>
 
 In the same way as we defined velocities, we can define accelerations:
-we have an <span class="math">x</span>-component of acceleration <span class="math">a<sub>x</sub></span>, which is the derivative of <span class="math">v<sub>x</sub></span>,
-        the <span class="math">x</span>-component of the velocity (that is, <span class="math">a<sub>x</sub> = d<sup>2</sup>x/dt<sup>2</sup></span>,
-    the second derivative of <span class="math">x</span> with respect to <span class="math">t</span>), and so on.
+we have an <i>x</i>-component of acceleration <i>a</i><sub>x</sub>, which is the derivative of <i>v</i><sub>x</sub>,
+        the <i>x</i>-component of the velocity (that is, <i>a</i><sub>x</sub> = d<sup>2</sup><i>x</i>&#8725;d<i>t</i><sup>2</sup>,
+    the second derivative of <i>x</i> with respect to <i>t</i>), and so on.
 
 Let us consider one nice example of compound motion in a plane.
-We shall take a motion in which a ball moves horizontally with a constant velocity <span class="math">u</span>,
-    and at the same time goes vertically downward with a constant acceleration <span class="math">&minus;g</span>;
+We shall take a motion in which a ball moves horizontally with a constant velocity <i>u</i>,
+    and at the same time goes vertically downward with a constant acceleration &minus;<i>g</i>;
     what is the motion?
-We can say <span class="math">dx/dt = v<sub>x</sub> = u</span>.
-Since the velocity <span class="math">v<sub>x</sub></span> is constant,
+We can say d<i>x</i>&#8725;d<i>t</i> = <i>v</i><sub>x</sub> = <i>u</i>.
+Since the velocity <i>v</i><sub>x</sub> is constant,
 
-\begin{equation}
-    x = ut
-    \label{eq:8.17}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="x = ut" display="block" id="eq8-17">
+  <mrow>
+    <mrow>
+      <mi>x</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mi>u</mi>
+      <mi>t</mi>
+    </mrow>
+  </mrow>
+</math>
 
-and since the downward acceleration <span class="math">&minus;g</span> is constant,
-    the distance <span class="math">y</span> the object falls can be written as
+and since the downward acceleration &minus;<i>g</i> is constant,
+    the distance <i>y</i> the object falls can be written as
 
-\begin{equation}
-    y = -\frac{1}{2} g t^2
-    \label{eq:8.18}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="y = -\frac{1}{2} g t^2" display="block" id="eq8-18">
+  <mrow>
+    <mrow>
+      <mi>x</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>&minus;</mo>
+      <mfrac>
+        <mn>1</mn>
+        <mn>2</mn>
+      </mfrac>
+      <mi>g</mi>
+      <msup>
+        <mi>t</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mrow>
+</math>
 
-What is the curve of its path, i.e., what is the relation between <span class="math">y</span> and <span class="math">x</span>?
-We can eliminate <span class="math">t</span> from [Equation 8-18](eq8-18), since <span class="math">t = x/u</span>.
+What is the curve of its path, i.e., what is the relation between <i>y</i> and <i>x</i>?
+We can eliminate <i>t</i> from [Equation 8-18](eq8-18), since <span class="math"><i>t</i> = <i>x&#8725;u</i></span>.
 When we make this substitution we find that
 
-\begin{equation}
-    y = -\frac{g}{2\mu^2} x^2,
-    \label{eq:8.19}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="y = -\frac{g}{2\mu^2} x^2" display="block" id="eq8-19">
+  <mrow>
+    <mrow>
+      <mi>y</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>&minus;</mo>
+      <mfrac>
+        <mrow>
+          <mi>g</mi>
+        </mrow>
+        <mrow>
+          <mn>2</mn>
+          <msup>
+            <mi>u</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </mfrac>
+      <msup>
+        <mi>x</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mrow>
+</math>
 
-This relation between <span class="math">y</span> and <span class="math">x</span> may be considered as the equation of the path of the moving ball.
+This relation between <i>y</i> and <i>x</i> may be considered as the equation of the path of the moving ball.
 When this equation is plotted we obtain a curve that is called a parabola;
 any freely falling body that is shot out in any direction will travel in a parabola,
     as shown in [Figure 8-4](fig8-4).

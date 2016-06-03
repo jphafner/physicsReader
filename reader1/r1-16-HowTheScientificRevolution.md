@@ -144,3 +144,4 @@ But now that Bacon, Boyle, Newton and Locke had arisen, who could deny that the 
 Man could now hope to control his environment as never before, and who could say what triumphs might not lie ahead?
 Even if we feel that the victory of science was then won at the expense of some of man&39;s finer faculties, we can freely admit that it brought with it many good gifts as well&mdash;tolerance, reasonableness, release from fear and superstition—and we can pardon, and even envy, that age for its temporary self-satisfaction.
 
+

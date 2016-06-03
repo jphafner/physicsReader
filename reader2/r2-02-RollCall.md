@@ -22,24 +22,24 @@ Let us, therefore, take up the matter of the names, call the roll of the Solar S
 
 
 <br />
-The Earth itself should come first, I suppose.
+The <em>Earth</em> itself should come first, I suppose.
 Earth is an old Teutonic word, but it is one of the glories of the English language that we always turn to the classic tongues as well.
-The Greek word for Earth was Gala or, in Latin spelling, Gaea.
+The Greek word for Earth was Gala or, in Latin spelling, <em>Gaea</em>.
 This gives us &ldquo;geography&rdquo; (&ldquo;earth-writing&rdquo;), &ldquo;geology&rdquo; (&ldquo;earth-discourse&rdquo;), &ldquo;geometry&rdquo; (&ldquo;earth-measure&rdquo;), and so on.
 
 
-The Latin word is Terra.
+The Latin word is <em>Terra</em>.
 In science fiction stories a human being from Earth may be an &ldquo;Earthling&rdquo; or an &ldquo;Earthman,&rdquo; but he is frequently a &ldquo;Terrestrial,&rdquo; while a creature from another world is almost invariably an &ldquo;extra-Terrestrial.&rdquo;
 
 
-The Romans also referred to the Earth as Tellus Mater (&ldquo;Mother Earth&rdquo; is what it means).
-The genitive form of tellus is telluris, so Earthmen are occasionally referred to in s.f. stories as &ldquo;Tellurians.&rdquo; There is also a chemical element &ldquo;tellurium,&rdquo; named in honor of this version of the name of our planet.
+The Romans also referred to the Earth as <em>Tellus Mater</em> (&ldquo;Mother Earth&rdquo; is what it means).
+The genitive form of tellus is <em>telluris</em>, so Earthmen are occasionally referred to in s.f. stories as &ldquo;Tellurians.&rdquo; There is also a chemical element &ldquo;tellurium,&rdquo; named in honor of this version of the name of our planet.
 
 
 <br />
-But putting Earth to one side, the first two heavenly bodies to have been noticed were, undoubtedly and obviously, the Sun and the Moon, which, like Earth, are old Teutonic words.
+But putting Earth to one side, the first two heavenly bodies to have been noticed were, undoubtedly and obviously, the <em>Sun</em> and the <em>Moon</em>, which, like Earth, are old Teutonic words.
 
-To the Greeks the Sun was Helios, and to the Romans it was Sol.
+To the Greeks the Sun was <em>Helios</em>, and to the Romans it was Sol.
 For ourselves, Helios is almost gone, although we have &ldquo;helium&rdquo; as the name of an element originally found in the Sun, &ldquo;heliotrope&rdquo; (&ldquo;sun-turn&rdquo;) for the sunflower, and so on.
 
 
@@ -50,7 +50,7 @@ We may speak of a sunny day and a sunny disposition, but never of the &ldquo;Sun
 In science fiction, the Sun is often spoken of as Sol, and the Earth may even be referred to as &ldquo;Sol III.&rdquo;
 
 
-The Greek word for the Moon is Selene, and the Latin word is Luna.
+The Greek word for the Moon is <em>Selene</em>, and the Latin word is <em>Luna</em>.
 The first lingers on in the name of the chemical element &ldquo;selenium,&rdquo; which was named for the Moon.
 And the study of the Moon&#39;s surface features may be called &ldquo;selenography.&rdquo;
 The Latin name appears in the common adjective, however, so that one speaks of a &ldquo;lunar crescent&rdquo; or a &ldquo;lunar eclipse.&rdquo;
@@ -60,10 +60,10 @@ Also, because of the theory that exposure to the light of the full Moon drove me
 <br />
 I have a theory that the notion of naming the heavenly bodies after mythological characters did not originate with the Greeks, but that it was a deliberate piece of copycattishness.
 
-To be sure, one speaks of Helios as the god of the Sun and Gaea as the goddess of the Earth, but it seems obvious to me that the words came first, to express the physical objects, and that these were personified into gods and goddesses later on.
+To be sure, one speaks of <em>Helios</em> as the god of the Sun and <em>Gaea</em> as the goddess of the Earth, but it seems obvious to me that the words came first, to express the physical objects, and that these were personified into gods and goddesses later on.
 
 The later Greeks did, in fact, feel this lack of mythological character and tried to make Apollo the god of the Sun and Artemis (Diana to the Romans) the goddess of the Moon.
-This may have taken hold of the Greek scholars but not of the ordinary folk, for whom Sun and Moon remained Helios and Selene.
+This may have taken hold of the Greek scholars but not of the ordinary folk, for whom Sun and Moon remained <em>Helios</em> and <em>Selene</em>.
 (Nevertheless, the influence of this Greek attempt on later scholars was such that no other important heavenly body was named for Apollo and Artemis.)
 
 
@@ -79,11 +79,11 @@ It is therefore the &ldquo;Evening Star&rdquo; sometimes and the &ldquo;Morning 
 To the early Greeks, these seemed two separate objects and each was given a name.
 
 
-The Evening Star, which always appeared in the west near the setting Sun, was named Hesperos (&ldquo;evening&rdquo; or &ldquo;west&rdquo;).
+The Evening Star, which always appeared in the west near the setting Sun, was named <em>Hesperos</em> (&ldquo;evening&rdquo; or &ldquo;west&rdquo;).
 The equivalent Latin name was Vesper.
-The Morning Star was named Phosphoros (&ldquo;light-bringer&rdquo;), for when the Morning Star appeared the Sun and its light were not far behind.
+The Morning Star was named <em>Phosphoros</em> (&ldquo;light-bringer&rdquo;), for when the Morning Star appeared the Sun and its light were not far behind.
 (The chemical element &ldquo;phosphorus&rdquo;---Latin spelling---was so named because it glowed in the dark as the result of slow combination with oxygen.)
-The Latin name for the Morning Star was Lucifer, which also means &ldquo;light-bringer.&rdquo;
+The Latin name for the Morning Star was <em>Lucifer</em>, which also means &ldquo;light-bringer.&rdquo;
 
 
 Now notice that the Greeks made no use of mythology here.
@@ -101,19 +101,19 @@ Since the planet representing both was so bright and beautiful, the Babylonians 
 
 Pythagoras brought back to Greece this Babylonian knowledge of the oneness of the Evening and Morning Star, and Hesperos and Phosphoros vanished from the heavens.
 Instead, the Babylonian system was copied and the planet was named for the Greek goddess of beauty and love, Aphrodite.
-To the Romans this was their corresponding goddess Venus, and so it is to us.
+To the Romans this was their corresponding goddess <em>Venus</em>, and so it is to us.
 
 
 Thus, the habit of naming heavenly bodies for gods and goddesses was, it seems to me, deliberately copied from the Babylonians (and their predecessors) by the Greeks.
 
 
 The name &ldquo;Venus,&rdquo; by the way, represents a problem.
-Adjectives from these classical words have to be taken from the genitive case and the genitive form of &ldquo;Venus&rdquo; is Veneris. (Hence, &ldquo;venerable&rdquo; for anything worth the respect paid by the Romans to the goddess; and because the Romans respected old age, &ldquo;venerable&rdquo; came to be applied to old men rather than young women.)
+Adjectives from these classical words have to be taken from the genitive case and the genitive form of &ldquo;Venus&rdquo; is <em>Veneris</em>. (Hence, &ldquo;venerable&rdquo; for anything worth the respect paid by the Romans to the goddess; and because the Romans respected old age, &ldquo;venerable&rdquo; came to be applied to old men rather than young women.)
 
 
 So we cannot speak of &ldquo;Venusian atmosphere&rdquo; or &ldquo;Venutian atmosphere&rdquo; as science fiction writers sometimes do.
 We must say &ldquo;Venerian atmosphere.&rdquo; Unfortunately, this has uncomfortable associations and it is not used.
-We might turn back to the Greek name but the genitive form there is Aphrodisiakos, and if we speak of the &ldquo;Aphrodisiac atmosphere&rdquo; I think we will give a false impression.
+We might turn back to the Greek name but the genitive form there is <em>Aphrodisiakos</em>, and if we speak of the &ldquo;Aphrodisiac atmosphere&rdquo; I think we will give a false impression.
 
 
 But something must be done. We are actually exploring the atmosphere of Venus with space probes and some adjective is needed.
@@ -129,7 +129,7 @@ The second brightest planet is truly the king planet.
 Venus may be brighter but it is confined to the near neighborhood of the Sun and is never seen at midnight.
 The second brightest, however, can shine through all the hours of night and so it should fittingly be named for the chief god.
 The Babylonians accordingly named it &ldquo;Marduk.&rdquo;
-The Greeks followed suit and called it &ldquo;Zeus,&rdquo; and the Romans named it Jupiter.
+The Greeks followed suit and called it &ldquo;Zeus,&rdquo; and the Romans named it <em>Jupiter</em>.
 The genitive form of Jupiter is <em>Jovis</em>, so that we speak of the &ldquo;Jovian satellites.&rdquo;
 A person born under the astrological influence of Jupiter is &ldquo;jovial.&rdquo;
 
@@ -158,7 +158,7 @@ The quick journey of Mercury across the stars is like the lively behavior of dro
 There is one planet left.
 This is the most slowly moving of all the planets known to the ancient Greeks (being the farthest from the Sun) and so they gave it the name of an ancient god, one who would be expected to move in grave and solemn steps.
 They called it &ldquo;Cronos,&rdquo; the father of Zeus and ruler of the universe before the successful revolt of the Olympians under Zeus&#39;s leadership.
-The Romans gave it the name of a god they considered the equivalent of Cronos and called it &ldquo;Satumus,&rdquo; which to us is Saturn.
+The Romans gave it the name of a god they considered the equivalent of Cronos and called it &ldquo;Satumus,&rdquo; which to us is <em>Saturn</em>.
 People born under Saturn are supposed to reflect its gravity and are &ldquo;saturnine.&rdquo;
 
 
@@ -301,7 +301,7 @@ I am glad of this. Amalthea was the nurse of Jupiter (Zeus) in his infancy, and 
 
 
 In the twentieth century no less than seven more Jovian satellites were discovered, all far out, all quite small, all probably captured planetoids, all nameless.
-Unofficial names have been proposed. Of these, the three planetoids nearest Jupiter bear the names Hestia, Hera, and Demeter, after the Greek names of the three sisters of Jupiter (Zeus).
+Unofficial names have been proposed. Of these, the three planetoids nearest Jupiter bear the names <em>Hestia</em>, <em>Hera</em>, and <em>Demeter</em>, after the Greek names of the three sisters of Jupiter (Zeus).
 Hera, of course, is his wife as well.
 Under the Roman versions of the names (Vesta, Juno, and Ceres, respectively) all three are planetoids.
 The two farthest are <em>Poseidon</em> and <em>Hades</em>, the two brothers of Jupiter (Zeus).

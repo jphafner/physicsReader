@@ -119,12 +119,12 @@ Then Salviati turns to the intermediate case:
 </blockquote>
 
 Here is the genesis of one of the fundamental principles of the new mechanics:
-    if all ``accidental&#39;&#39; interferences with an object&#39;s motion are removed, the motion will endure.
-The ``accidents&#39;&#39; are eliminated in this thought experiment by:
+    if all &ldquo;accidental&#rdquo; interferences with an object&#39;s motion are removed, the motion will endure.
+The &ldquo;accidents&rdquo; are eliminated in this thought experiment by:
     (1) proposing the use of a perfectly round, perfectly hard ball on a perfectly smooth surface, and
     (2) by imagining the surface to be a globe whose surface is everywhere equidistant from the center of the earth, so that the ball&#39;s "natural tendency" to go downward is balanced by the upward thrust of the surface.
 (We shall return to this latter point in our discussion of isolated systems in Chapter 16.)
-Note carefully the drastic change from the Scholastic view: instead of asking ``What makes the ball move?&#39;&#39; Galileo asks ``What might change its motion?&#39;&#39;
+Note carefully the drastic change from the Scholastic view: instead of asking &ldquo;What makes the ball move?&rdquo; Galileo asks &ldquo;What might change its motion?&rdquo;
 
 Having turned the conversation to smooth water, Galileo brings in the motion of a stone dropping from the mast of a moving ship.
 Since the stone is moving horizontally with the ship before it is dropped, it should continue to move horizontally while it falls.
@@ -173,7 +173,7 @@ Since the stone is moving horizontally with the ship before it is dropped, it sh
 
 <figure id="fig3-2">
 <figcaption>
-    For cannon balls fired horizontally with different initial forward speeds, ``all the balls in all the shots made horizontally remain in the air an equal time.&#39;&#39;
+    For cannon balls fired horizontally with different initial forward speeds, &ldquo;all the balls in all the shots made horizontally remain in the air an equal time.&dquo;
 </figcaption>
 </figure>
 

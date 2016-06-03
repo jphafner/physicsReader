@@ -4,7 +4,7 @@ author: George Polya
 title: How to Solve It
 exerpt: This is Polya&#39;s one-page summary of his book in which he discusses strategies and techniques for solving problems.
     Polya&#39;s examples are from mathematics, but his ideas are useful in solving physics problems also.
-    intro: An excerpt from his book <em>How To Solve It</em>, 1945.
+intro: An excerpt from his book <em>How To Solve It</em>, 1945.
 ---
 
 ## Understanding The Problem

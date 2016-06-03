@@ -421,7 +421,6 @@ Shadows grew where none had been before, and we could begin to see colors the gr
 Dr Greenstein went back inside and called down to Tuton to turn off the exposure before it was contaminated. 
 
 
-
 <br />
 The inside of the dome was suffused with pink; the dome&#39;s interior, too, was of brilliant aluminum, and caught the dawn through the slit. 
 The telescope was visible again, like a dinosaur emerging from a misty bog. 

@@ -36,54 +36,85 @@ A physicist would never check the identity of three or four iron balls as to mas
 In measuring the length of a javelin throw, no physicist who wanted to be right to &#8539;<!--vulgar 1/8--> inch would be content to establish his perpendicular from the point of fall to the scratchline by a process of guesswork, but this is the way it is always done by field judges, even in the best competition.
 
 Among the numerous errors afflicting measurements in the field sports, there is none which is more systematically committed, or which could be more easily rectified, than that pertaining to the variation of the force of gravity.
-The range of a projectile dispatched at any particular angle of elevation and with a given initial speed is a simple function of <span class="math">g</span>.
+The range of a projectile dispatched at any particular angle of elevation and with a given initial speed is a simple function of <var>g</var>.
 Only in case the end of the trajectory is at the same level as its beginning does this function become an inverse proportionality;
     but in any case the relationship is readily expressed, and no physicist will doubt that a given heave of the shot will yield a longer put in equatorial latitudes than it would in zones where the gravitational force is stronger.
-Before saying that the 55 ft. put achieved by <span class="math">A</span> in Mexico City is a better performance than one of <span class="math">54</span> ft, <span class="math">11</span> in.
-    which <span class="math">B</span> accomplished in Boston, we should surely inquire about the values of <span class="math">g</span> which the respective athletes were up against, but it is never done.
-    As a matter of record, the value of <span class="math">g</span> in Boston exceeds that in Mexico City by &#188;<!-- vulgar 1/4-->} percent, so the shorter put was really the better.
-To ignore the handicap of a larger value of <span class="math">g</span> is like measuring the throw with a stretched tape.
+Before saying that the 55 ft. put achieved by <var>A</var> in Mexico City is a better performance than one of 54 ft, 11 in.
+    which <var>B</var> accomplished in Boston, we should surely inquire about the values of <var>g</var> which the respective athletes were up against, but it is never done.
+    As a matter of record, the value of <var>g</var> in Boston exceeds that in Mexico City by &#188;<!-- vulgar 1/4-->} percent, so the shorter put was really the better.
+To ignore the handicap of a larger value of <var>g</var> is like measuring the throw with a stretched tape.
 The latter practice would never be countenanced under AAU or Olympic regulations, but the former is standard procedure.
 
-Rendering justice to an athlete who has had to compete against a high value of <span class="math">g</span> Involves questions that are not simple.
-It will be agreed that he is entitled to some compensation and that in comparing two throws made under conditions similar except as to <span class="math">g</span>, the proper procedure would be to compare not the actual ranges achieved, but the ranges which would have been achieved had some &ldquo;standard&rdquo; value of <span class="math">g</span>&mdash;say 980 cm/sec<sup>2</sup>&mdash;prevailed in both cases.
+Rendering justice to an athlete who has had to compete against a high value of <var>g</var> Involves questions that are not simple.
+It will be agreed that he is entitled to some compensation and that in comparing two throws made under conditions similar except as to <var>g</var>, the proper procedure would be to compare not the actual ranges achieved, but the ranges which would have been achieved had some &ldquo;standard&rdquo; value of <var>g</var>&mdash;say 980 cm/sec<sup>2</sup>&mdash;prevailed in both cases.
 The calculation of exactly what would have happened is probably impossible to physics.
-Although it is a simple matter to discuss the behavior of the implement after it leaves the thrower&#39;s hand and to state how this behavior depends upon <span class="math">g</span>, the dependence of the initial velocity of projection upon <span class="math">g</span> depends upon the thrower&#39;s form and upon characteristics of body mechanics to which but little attention has so far been devoted.
+Although it is a simple matter to discuss the behavior of the implement after it leaves the thrower&#39;s hand and to state how this behavior depends upon <var>g</var>, the dependence of the initial velocity of projection upon <var>g</var> depends upon the thrower&#39;s form and upon characteristics of body mechanics to which but little attention has so far been devoted.
 
 
 The work done by the thrower bestows upon the projectile both potential and kinetic energy.
 In a strong gravitational field, the imparted potential energy is large and one must therefore suppose the kinetic energy to be reduced, since the thrower&#39;s propelling energy must be distributed to both.
-We have no proof, however, that the total useful work is constant despite variation of <span class="math">g</span>, nor do we know the manner of its inconstancy, if any.
+We have no proof, however, that the total useful work is constant despite variation of <var>g</var>, nor do we know the manner of its inconstancy, if any.
 The muscular catapult is not a spring, subject to Hooke&#39;s law, but a far more complicated system with many unknown characteristics.
 The maximum external work which one may do in a single energetic shove by arms, legs or both obviously depends partly upon the resisting force encountered.
 Only a little outside work can be done in putting a ping-pong ball because the maximum possible acceleration, limited by the masses and other characteristics of the bodily mechanism itself, is too slight to call out substantial inertial forces in so small a mass.
-The resisting force encountered when a massive body is pushed in a direction that has an upward component, as in shot-putting, does of course depend upon <span class="math">g</span>;
+The resisting force encountered when a massive body is pushed in a direction that has an upward component, as in shot-putting, does of course depend upon <var>g</var>;
     and until we know from experiment how external work in such an effort varies with resisting force, we shall not be able to treat the interior ballistics of the shot-putter with anything approaching rigor.
 
 Several alternative assumptions may be considered.
-If we suppose that the velocity of delivery, or &ldquo;muzzle velocity,&rdquo; <span class="math">v</span>, of the missile is unaffected by variations of <span class="math">g</span>, we have only the external effect to deal with.
-Adopting the approximate range formula <span class="math">R = v<sup>2</sup>/g</span> (which neglects the fact that the two ends of the trajectory are at different levels and which assumes the optimum angle of elevation) we find that the increment of range <span class="math">dR</span> resulting from an increment <span class="math">dg</span> is simply <span class="math">&minus;Rdg/g</span>.
-On the more plausible assumption that the total work done on the projectile is independent of <span class="math">g</span>, this total to include both the potential and kinetic energies imparted, one obtains as a correction formula,
+If we suppose that the velocity of delivery, or &ldquo;muzzle velocity,&rdquo; <i>v</i>, of the missile is unaffected by variations of <var>g</var>, we have only the external effect to deal with.
+Adopting the approximate range formula <i>R</i> = <i>v</i><sup>2</sup>&#8725;<i>g</i> (which neglects the fact that the two ends of the trajectory are at different levels and which assumes the optimum angle of elevation) we find that the increment of range d<i>R</i> resulting from an increment d<i>g</i> is simply &minus;<i>Rdg&#8725;g</i>.
+On the more plausible assumption that the total work done on the projectile is independent of <var>g</var>, this total to include both the potential and kinetic energies imparted, one obtains as a correction formula,
 
-\begin{equation}
-dR = - \left(1 + \frac{2h}{R}\right) R \frac{dg}{g}
-\label{eq:1}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="dR = - \left(1 + \frac{2h}{R}\right) R \frac{dg}{g}" display="block" id="eq-1">
+  <mrow>
+    <mrow>
+      <mo>&dd;</mo>
+      <mi>R</mi>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>&minus;</mo>
+      <mfenced>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mfrac> 
+          <mrow>
+            <mn>2</mn>
+            <mi>h</mi>
+          </mrow>
+          <mrow>
+            <mi>R</mi>
+          </mrow>
+        </mfrac> 
+      </mfenced>
+      <mi>R</mi>
+      <mfrac> 
+        <mrow>
+          <mo>&dd;</mo>
+          <mi>g</mi>
+        </mrow>
+        <mrow>
+          <mi>g</mi>
+        </mrow>
+      </mfrac> 
+    </mrow>
+  </mrow>
+</math>
 
-where <span class="math">h</span> is the. vertical lift which the projectile gets while in the hand of the thrower.
-A third assumption, perhaps the most credible of all, would hold constant and independent of <span class="math">g</span> the total work done upon the projectile and upon a portion of the mass of the thrower&#39;s person.
+where <var>h</var> is the. vertical lift which the projectile gets while in the hand of the thrower.
+A third assumption, perhaps the most credible of all, would hold constant and independent of <var>g</var> the <em>total work done upon the projectile and upon a portion of the mass of the thrower&#39;s person</em>.
 It is not necessary to decide how much of the thrower&#39;s mass goes into this latter term;
     it drops out and we have again Eq.~(\ref{eq:1}), provided only that the work done on the thrower&#39;s body can be taken into account by an addition to the mass of the projectile.
 
-These considerations show that a variation of <span class="math">g</span> affects the range in the same sense before and after delivery, an increase in <span class="math">g</span> reducing the delivery velocity and also pulling the projectile down more forcibly after its flight begins.
-They indicate also that the latter effect is the more important since, in Eq.~(\ref{eq:1}), <span class="math">t &gt; 2h/R</span> by a factor of perhaps five in the shot-put and more in the other weight-throwing events.
+These considerations show that a variation of <var>g</var> affects the range in the same sense before and after delivery, an increase in <var>g</var> reducing the delivery velocity and also pulling the projectile down more forcibly after its flight begins.
+They indicate also that the latter effect is the more important since, in Eq.~(\ref{eq:1}), <i>t</i> &gt; 2<i>h</i>&#8725;<i>R</i> by a factor of perhaps five in the shot-put and more in the other weight-throwing events.
 
-One concludes that the least which should be done to make amends to a competitor striving against a large value of <span class="math">g</span> is to give him credit for the range which his projectile would have attained, for the same initial velocity, at a location where <span class="math">g</span> is &ldquo;standard.&rdquo;
+One concludes that the least which should be done to make amends to a competitor striving against a large value of <var>g</var> is to give him credit for the range which his projectile would have attained, for the same initial velocity, at a location where <var>g</var> is &ldquo;standard.&rdquo;
 This is not quite justice, but it is a major step in the right direction.
-The competitor who has been favored by a small value of <span class="math">g</span> should of course have his achievement treated in the same way.
+The competitor who has been favored by a small value of <var>g</var> should of course have his achievement treated in the same way.
 The corrections so calculated will not be negligible magnitudes, as Fig.~\ref{fig:1} shows.
 They are extremely small percentages of the real ranges, but definitely exceed the ostensible probable errors of measurement.
-It is not customary to state probable errors explicitly in connection with athletic measurements, but when a throw is recorded as <span class="math">57</span> ft, <span class="math">1</span> in,
+It is not customary to state probable errors explicitly in connection with athletic measurements, but when a throw is recorded as 57 ft, 1 <sup>5</sup>&#8260;<sub>32</sub> in,
     one naturally concludes that the last thirty-second inch, if not completely reliable, must have been regarded as having some significance.
 
 ## Rotation of the Earth
@@ -93,14 +124,14 @@ As a matter of fact they should, for at low latitudes the range of a discus or s
 
 <figure id="fig1">
 <figcaption>
-Graphs for normalizing shot-put ranges to the common value <span class="math">g=980 cm/sec<sup>2</sup></span>.
-Ranges achieved where <span class="math">g=980 cm/sec<sup>2</sup></span> are not in need of adjustment, but a range of <span class="math">50</span> ft (see inclined line marked 50&#39;) achieved at Glasgow, where <span class="math">g = 981.6 cm/sec<sup>2</sup></span>, is entitled to a premium of &#8539;<!-- vulgar 1/8--> inch which should be added before comparing the put with one achieved elsewhere.
-Distances accomplished where <span class="math">g &gt; 980 cm/sec<sup>2</sup></span> should be subjected to the deductions indicated by graphs in the third quadrant.
+Graphs for normalizing shot-put ranges to the common value <i>g</i> = 980 cm/sec<sup>2</sup></span>.
+Ranges achieved where <i>g</i> = 980 cm/sec<sup>2</sup></span> are not in need of adjustment, but a range of 50 ft (see inclined line marked 50&#39;) achieved at Glasgow, where <i>g</i> = 981.6 cm/sec<sup>2</sup></span>, is entitled to a premium of &#8539;<!-- vulgar 1/8--> inch which should be added before comparing the put with one achieved elsewhere.
+Distances accomplished where <i>g</i> &gt; 980 cm/sec<sup>2</sup> should be subjected to the deductions indicated by graphs in the third quadrant.
 </figcaption>
 </figure>
 
 exceeds that of a westward throw by more than the ostensible precision of such measurements.
-The difference between the range of a projectile thrown from the surface of the real earth and the range of one thrown from a nonrotating earth possessing the same local value of <span class="math">g</span> is given by [^2]
+The difference between the range of a projectile thrown from the surface of the real earth and the range of one thrown from a nonrotating earth possessing the same local value of <var>g</var> is given by [^2]
 
 \begin{align}
     Range = &\frac{V_0^2 \sin{}2\alpha}{g} + \frac{4 \omega V_0^3}{3g^2} \\
@@ -207,14 +238,14 @@ The difference between the range of a projectile thrown from the surface of the 
   </mrow>
 </math>
 
-where <span class="math">g</span> is the ordinary acceleration due to weight, <span class="math">V<sub>0</sub></span> is the initial speed of the projectile, <span class="math">a</span> is the angle of elevation of initial motion (measured upward from the horizontal in the direction of projection), <span class="math">&omega;</span>(rad/sec) is the angular speed of rotation of the earth, <span class="math">&lambda;</span> is the geographic latitude of the point of departure of the projectile, and &mu; is the azimuth of the plane of the trajectory, measured clockwise from the north point. 
+where <var>g</var> is the ordinary acceleration due to weight, <i>V</i><sub>0</sub> is the initial speed of the projectile, <i>a</i> is the angle of elevation of initial motion (measured upward from the horizontal in the direction of projection), <i>&omega;</i>(rad/sec) is the angular speed of rotation of the earth, <i>&lambda;</i> is the geographic latitude of the point of departure of the projectile, and &mu; is the azimuth of the plane of the trajectory, measured clockwise from the north point. 
 A derivation of this equation (though not the first) is given in reference 2, along with a discussion of its application to real cases.
 The approximations accepted in the derivation are such as might possibly be criticized where long range guns are considered, but they introduce no measurable errors into the treatment of athletic projectiles. 
 
 The first term of the right-hand member of Eq.~(\ref{eq:2}) is the ordinary elementary range expression, and naturally it expresses almost the whole of the actual range.
-The second term is a small correction which is of positive sign for eastbound projectiles (<span class="math">0 &gt; &mu; &gt; 180&deg;</span>) and negative for westbound.
-The correction term, being proportional to <span class="math">V<sub>0</sub><sup>2</sup></span>, increases with <span class="math">V<sub>0</sub></span> at a greater rate than does the range as a whole.
-Hence the percentage increase or decrease of range, because of earth rotation, varies in proportion to <span class="math">V<sub>0</sub></span> or to the square root of the range itself.
+The second term is a small correction which is of positive sign for eastbound projectiles (0 &gt; <i>&mu;</i> &gt; 180&deg;) and negative for westbound.
+The correction term, being proportional to <i>V</i><sub>0</sub><sup>2</sup>, increases with <i>V</i><sub>0</sub> at a greater rate than does the range as a whole.
+Hence the percentage increase or decrease of range, because of earth rotation, varies in proportion to <i>V</i><sub>0</sub> or to the square root of the range itself.
 Evidently this effect is a maximum at the equator and zero at the poles.
 Inspection of the role of a shows that the correction term is a maximum for a 30&deg; angle of elevation and that it vanishes when the angle of elevation is 60&deg;.
 
@@ -224,11 +255,11 @@ This is many times the apparent precision of measurement for this event,
     and records have changed hands on slimmer margins.
 Significant effects of the same kind, though of lesser magnitude, appear in the cases of the javelin, hammer, shot and even the broad jump, where the east-west differential exceeds the commonly recorded sixteenth of an inch.
 
-Figures \ref{fig:1} and \ref{fig:2} are types of correction charts that might be used to normalize the performances of weight throwers to a uniform value of <span class="math">g</span> and a common direction of projection.
+Figures \ref{fig:1} and \ref{fig:2} are types of correction charts that might be used to normalize the performances of weight throwers to a uniform value of <var>g</var> and a common direction of projection.
 Figure~\ref{fig:1} has been prepared with the shot-put in mind, but is not restricted to implements of any particular mass.
-The inclined straight lines of this figure are graphs of <span class="math">&minus;dR</span> versus <span class="math">dg</span> from Eq.~(\ref{eq:1}).
-Values of the parameter <span class="math">R</span> are indicated on the graphs.
-The uniform value 100 cm has been adopted for <span class="math">h</span>, an arbitrary procedure but a harmless one in view of the insensitivity of <span class="math">dR</span> to <span class="math">h</span>.
+The inclined straight lines of this figure are graphs of <i>&minus;d<i>R</i> versus d<i>g</i> from Eq.~(\ref{eq:1}).
+Values of the parameter <i>R</i> are indicated on the graphs.
+The uniform value 100 cm has been adopted for <i>h</i>, an arbitrary procedure but a harmless one in view of the insensitivity of d<i>R</i> to <i>h</i>.
 
 Figure~\ref{fig:2}, particularly applicable to the hammer throw, furnishes means for equalizing the effect of earth spin upon athletes competing with the same implement but directing their throws variously as may be necessitated by the lay-out of their respective fields.
 An angle of elevation of 45&deg; has been assumed in the construction of these curves, a somewhat restrictive procedure which finds justification in the fact that no hammer thrown at an angle significantly different from 45&deg; is likely to achieve a range worth correcting.
@@ -247,6 +278,7 @@ Distances must be measured with &ldquo;a steel tape.&rdquo;
 The Inspector of
 
 <figure id="fig2">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42"> 
 <figcaption>
     Curves for rendering throws in various directions comparable.
     The assumed latitude is 30&deg;, either north or south,

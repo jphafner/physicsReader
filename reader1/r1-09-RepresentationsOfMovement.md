@@ -6,6 +6,8 @@ exerpt: The twentieth century artist has been able to exploit his interest in mo
 intro: A chapter from his book <em>Language of Vision</em>, 1944.
 ---
 
+<!-- Pages 44 to 59 -->
+
 Matter, the physical basis of all spatial experience and thus the source material of representation, is kinetic in its very essence.
 From atomic happenings to cosmic actions, all elements in nature are in perpetual interaction&mdash;in a flux complete. We are living a mobile existence.
 The earth is rotating; the sun is moving;

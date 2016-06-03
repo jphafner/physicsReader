@@ -23,7 +23,7 @@ In the first place, they can&#39;t check up on whether what you are saying is ri
 And, in the second place, they can&#39;t make head or tail out of what you are telling them anyway&mdash;so they just gasp with surprise and wonderment, and give you a big hand for being smart enough to say such incomprehensible things.
 And I never let on that all you have to do to work the whole thing out is to set the centrifugal force equal to the gravitational force and solve for the velocity.
 That&#39;s all there is to it!
-Knowing <span class="math"><var>v</var></span>, you can find the period of motion, of course, and that&#39;s practically all you need. [^1]
+Knowing <var>v</var>, you can find the period of motion, of course, and that&#39;s practically all you need. [^1]
 
 To show what I mean, let me give a simple example that I heard discussed at an IRE meeting a couple of years ago.
 

@@ -4,7 +4,7 @@ author: James B. Gerhart and Rudi H Nussbaum
 title: Motion in Words
 excerpt: Not only the scientist Is Interested In motion.
     This article comments briefly on references to motion In poetry.
-    intro: An excerpt from their monograph, <em>Motion</em>, 1966.
+intro: An excerpt from their monograph, <em>Motion</em>, 1966.
 ---
 
 
@@ -158,7 +158,7 @@ Of course, it is not necessary to use as many words as Kelvin did to define prec
 Another, more austere, and to some, more scientific definition is this:
 
 <blockquote>
-  <p>When the axis of the top travels round the vertical making a constant angle <span class="math">i</span> with it, the motion is called steady or precessional.</p>
+  <p>When the axis of the top travels round the vertical making a constant angle <i>i</i> with it, the motion is called steady or precessional.</p>
   <footer>E. J. Routh, <em>Treatise on the Dynamics of a System of Rigid Bodies</em></footer>
 </blockquote>
 

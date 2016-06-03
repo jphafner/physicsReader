@@ -61,13 +61,13 @@ While the details differ in several respects, the following discussion is in sub
   </mrow>
 </math>
 
-<span class="math">R<sub>*</sub></span> is the mean rate of star formation, averaged over the lifetime of the Galaxy;
-<span class="math">f_p</span> is the fraction of stars with planetary systems;
-<span class="math">n_c</span> is the mean number of planets in each planetary system with environments favorable for the origin of life;
-<span class="math">f_l</span> is the fraction of such favorable planets on which life does develop;
-<span class="math">f_i</span> is the fraction of such inhabited planets on which intelligent life with manipulative abilities arises during the lifetime of the local sun;
-<span class="math">f_c</span> is the fraction of planets populated by intelligent beings on which an advanced technical civilization in the sense previously defined arises, during the lifetime of the local sun;
-and <span class="math">L</span> is the lifetime of the technical civilization. 
+<i>R</i><sub>*</sub> is the mean rate of star formation, averaged over the lifetime of the Galaxy;
+<i>f<sub>p</sub> is the fraction of stars with planetary systems;
+<i>n</i><sub>c</sub> is the mean number of planets in each planetary system with environments favorable for the origin of life;
+<i>f</i><sub>l</sub> is the fraction of such favorable planets on which life does develop;
+<i>f</i><sub>i</sub> is the fraction of such inhabited planets on which intelligent life with manipulative abilities arises during the lifetime of the local sun;
+<i>f</i><sub>c</sub> is the fraction of planets populated by intelligent beings on which an advanced technical civilization in the sense previously defined arises, during the lifetime of the local sun;
+and <i>L</i> is the lifetime of the technical civilization. 
 We now proceed to discuss each parameter in turn. 
 
 
@@ -79,22 +79,22 @@ The present rate of star formation is at least an order of magnitude less than t
 According to present views of element synthesis in stars, discussed in Chapter 8, those stars and planets formed in the early history of the Galaxy must have been extremely poor in heavy elements. 
 Technical civilizations developed on such ancient planets would of necessity be extremely different from our own. 
 But in the flurry of early star formation, when the Galaxy was young, heavy elements must have been generated rapidly, and later generations of stars and planets would have had adequate endowments of the heavy elements. 
-These very early systems should be subtracted, from our estimate of <span class="math">R<sub>*</sub></span>.
-On the other hand, there are probably vast numbers of undetected low-mass stars whose inclusion will tend to increase our estimate of <span class="math">R<sub>*</sub></span>. 
-For present purposes, we adopt <span class="math">R<sub>*</sub> &sim; 10</span> stars year<sup>&minus;1</sup>. 
+These very early systems should be subtracted, from our estimate of <i>R</i><sub>*</sub>.
+On the other hand, there are probably vast numbers of undetected low-mass stars whose inclusion will tend to increase our estimate of <i>R</i><sub>*</sub>. 
+For present purposes, we adopt <i>R<i></sub>*</sub> &sim; 10</span> stars year<sup>&minus;1</sup>. 
 
 
 &#9662;<!--\bigtriangledown--> From the frequencies of dark companions of nearby stars, from the argument on stellar rotation, and from contemporary theories of the origin of the solar system [see Chapters 11-13], we have seen that planets seem to be a very common, if not invariable, accompaniment to main sequence stars. 
-We therefore adopt <span class="math">f<sub>p</sub> &sim; 1</span>. 
+We therefore adopt <span class="math"><i>f</i><sub>p</sub> &sim; 1</span>. 
 
 
 &#9662;<!--\bigtriangledown--> In Chapter 11, we saw that even many multiple star systems may have planets in sufficiently stable orbits for the origin and development of life. 
 In our own solar system, the number of planets which are favorably situated for the origin of life at some time or another is at least one, probably two, and possibly three or more [see Chapters 16, 19, 20, and 23]. 
-We expect main sequence stars of approximately solar spectral type&mdash;say, between F2 and K5&mdash;to have a similar distribution of planets, and for such stars, we adopt <span class="math">n<sub>e</sub> &sim; 1</span>. 
+We expect main sequence stars of approximately solar spectral type&mdash;say, between F2 and K5&mdash;to have a similar distribution of planets, and for such stars, we adopt <span class="math"><i>n</i><sub>e</sub> &sim; 1</span>. 
 However, the bulk of the main sequence stars&mdash;well over 60 percent&mdash;are M stars; as we mentioned in Chapter 24, if the planets of these suns are distributed with just the same spacings as the planets of our Sun, even the innermost will be too far from its local sun to be heated directly to temperatures which we would consider clement for the origin and evolution of life. 
 However, it is entirely possible that such lower-luminosity stars were less able to clear their inner solar systems of nebular material from which the planets were formed early in their history. 
 Further, the greenhouse effect in Jovian-type planets of M stars should produce quite reasonable temperatures. 
-We therefore tentatively adopt for main sequence stars in general <span class="math">n<sub>c</sub> &sim; 1</span>.
+We therefore tentatively adopt for main sequence stars in general <span class="math"><i>n</i><sub>c</sub> &sim; 1</span>.
 
 
 &#9662;<!--\bigtriangledown--> In Chapters 14-17, we discussed the most recent work on the origin of life on Earth, which suggests that life arose very rapidly during the early history of the Earth. 
@@ -102,7 +102,7 @@ We discussed the hypothesis that the production of self-replicating molecular sy
 Such self-replicating systems, with some minimal control of their environments and situated in a medium filled with replication precursors, satisfy all the requirements for natural selection and biological evolution. 
 Given sufficient time and an environment which is not entirely static, the evolution of complex organisms is, in this view, inevitable. 
 The finding of even relatively simple life forms on Mars or other planets within our solar system would tend to confirm this hypothesis. In our own solar system, the origin of life has occurred at least once, and possibly two or more times.
-We adopt <span class="math">f<sub>f</sub> &sim; 1</span>.
+We adopt <span class="math"><i>f</i><sub>f</sub> &sim; 1</span>.
 
 
 &#9662;<!--\bigtriangledown--> The question of the evolution of intelligence is a difficult one. 
@@ -122,7 +122,7 @@ Large numbers of anecdotes supposedly illustrating great intelligence in the dol
 The detailed study of dolphin behavior and serious attempts to communicate with them are just beginning and hold out the possibility that some day we will be able to communicate, at least at a low level, with another intelligent species on our planet. 
 Dolphins have very limited manipulative abilities, and despite their apparent level of intelligence, could not have developed a technical civilization. 
 But their intelligence and communicativeness strongly suggest that these traits are not limited to the human species. 
-With the expectation that the Earth is not unique as the abode of creatures with intelligence and manipulative abilities, but also allowing for the fact that apparently only one such species has developed so far in its history, and this only recently, we adopt <span class="math">f<sub>f</sub> &sim; 10<sup>&minus;1</sup></span>. 
+With the expectation that the Earth is not unique as the abode of creatures with intelligence and manipulative abilities, but also allowing for the fact that apparently only one such species has developed so far in its history, and this only recently, we adopt <span class="math"><i>f</i><sub>f</sub> &sim; 10<sup>&minus;1</sup></span>. 
 
 
 &#9662;<!--\bigtriangledown--> The present technical civilization of the planet Earth can be traced from Mesopotamia to Southeastern Europe, to Western and Central Europe, and then to 
@@ -134,40 +134,40 @@ There are a thousand &ldquo;supposes.&rdquo;
 Would Chinese civilization have developed a technical civilization if entirely insulated from the West? 
 Would Aztec civilization have developed a technical phase had there been no conquistadores? 
 Recorded history, even in mythological guise, covers less than 10<sup>&minus;2</sup> of the period in which the Earth has been inhabited by hominids, and less than about 10<sup>&minus;5</sup> of geological time. 
-The same considerations are involved here as in the determination of <span class="math">f_i</span>.
+The same considerations are involved here as in the determination of <i>f</i><sub>i</sub>.
 The development of a technical civilization has high survival value at least up to a point; but in any given case, it depends on the concatenation of many improbable events, and it has occurred only recently in terrestrial history. 
 It is unlikely that the Earth is very extraordinary in possessing a technical civilization, among planets already inhabited by intelligent beings. 
-As before, over stellar evolutionary timescales, we adopt <span class="math">f<sub>c</sub> &sim; 10<sup>&minus;1</sup></span>.
+As before, over stellar evolutionary timescales, we adopt <span class="math"><i>f</i><sub>c</sub> &sim; 10<sup>&minus;1</sup></span>.
 
 
-&#9662;<!--\bigtriangledown--> The multiplication of the preceding factors gives <span class="math">N = 10<sup>10</sup> &times; 1 &times; 1 &times; 1 &times; 10<sup>&minus;1</sup> &times; 10<sup>&minus;1</sup> &times; L = 10<sup>&minus;1</sup> &times; L</span>.
-<span class="math">L</span> is the mean lifetime in years of a technical civilization possessing both the interest and the capability for interstellar communication. 
-For the evaluation of <span class="math">L</span> there is&mdash;fortunately for us, but unfortunately for the discussion&mdash;not even one known terrestrial example. 
+&#9662;<!--\bigtriangledown--> The multiplication of the preceding factors gives <span class="math"><i>N</i> = 10<sup>10</sup> &times; 1 &times; 1 &times; 1 &times; 10<sup>&minus;1</sup> &times; 10<sup>&minus;1</sup> &times; L = 10<sup>&minus;1</sup> &times; L</span>.
+<i>L</i> is the mean lifetime in years of a technical civilization possessing both the interest and the capability for interstellar communication. 
+For the evaluation of <i>L</i> there is&mdash;fortunately for us, but unfortunately for the discussion&mdash;not even one known terrestrial example. 
 The present technical civilization on Earth has reached the communicative phase (in the sense of high-gain directional antennas for the reception of extraterrestrial radio signals) only within the last few years. 
-There is a sober possibility that <span class="math">L</span> for Earth will be measured in decades. 
-On the other hand, it is possible that international political differences will be permanently settled, and that <span class="math">L</span> may be measured in geological time. 
+There is a sober possibility that <i>L</i> for Earth will be measured in decades. 
+On the other hand, it is possible that international political differences will be permanently settled, and that <i>L</i> may be measured in geological time. 
 It is conceivable that on other worlds, the resolution of national conflicts and the establishment of planetary governments are accomplished before weapons of mass destruction become available. 
-We can imagine two extreme alternatives for the evaluation of <span class="math">L</span>: (a) a technical civilization destroys itself soon after reaching the communicative phase (<span class="math">L</span> less than 10 2 years); or (b) a technical civilization learns to live with itself soon after reaching the communicative phase. 
+We can imagine two extreme alternatives for the evaluation of <i>L</i>: (a) a technical civilization destroys itself soon after reaching the communicative phase (<i>L</i> less than 10 2 years); or (b) a technical civilization learns to live with itself soon after reaching the communicative phase. 
 If it survives more than 10<sup>2</sup> years, it will be unlikely to destroy itself afterwards. 
-In the latter case, its lifetime may be measured on a stellar evolutionary timescale (<span class="math">L</span> much greater than 10 8 years). Such a society will exercise self-selection on its members. 
+In the latter case, its lifetime may be measured on a stellar evolutionary timescale (<i>L</i> much greater than 10 8 years). Such a society will exercise self-selection on its members. 
 The slow, otherwise inexorable genetic changes which might in one of many ways make the individuals unsuited for a technical civilization could be controlled. 
 The technology of such a society will certainly be adequate to cope with geological changes, although its origin is sensitively dependent on geology. 
 Even the evolution of the local sun through the red giant and white dwarf evolutionary stages may not pose insuperable problems for the survival of an extremely advanced community. 
 
 
 &#9662;<!--\bigtriangledown--> It seems improbable that surrounded by large numbers of flourishing and diverse galactic communities, a given advanced planetary civilization will retreat from the communicative phase. 
-This is one reason that <span class="math">L</span> itself depends on <span class="math">N</span>.  
+This is one reason that <i>L</i> itself depends on <i>N</i>.  
 Von Hoerner has suggested another reason: He feels that the means of avoiding self-destruction will be among the primary contents of initial interstellar communications. 
-If <span class="math">N</span> is large, the values of <span class="math">f_l</span>, <span class="math">f_i</span>, and <span class="math">f_c</span> may also be larger as a result. 
+If <i>N</i> is large, the values of <i>f</i><sub>l</sub>, <i>f</i><sub>i</sub>, and <i>f</i><sub>c</sub> may also be larger as a result. 
 In Chapter 15, we mentioned the possibility of the conscious introduction of life into an otherwise sterile planet by interstellar space travelers. 
-In Chapter 33, below, we shall discuss the possibility that such interstellar space travelers might also affect the value of <span class="math">f_c</span>. 
+In Chapter 33, below, we shall discuss the possibility that such interstellar space travelers might also affect the value of <i>f</i><sub>c</sub>. 
 
 
-&#9662;<!--\bigtriangledown--> Our two choices for <span class="math">L</span>&mdash;&lt; 10<sup>2</sup> years; and &gt;&gt; 10<sup>8</sup> years&mdash;lead to two values for <span class="math">N</span>: less than ten communicative civilizations in the Galaxy; or many more than 10<sup>7</sup>.
+&#9662;<!--\bigtriangledown--> Our two choices for <i>L</i>&mdash;&lt; 10<sup>2</sup> years; and &gt;&gt; 10<sup>8</sup> years&mdash;lead to two values for <i>N</i>: less than ten communicative civilizations in the Galaxy; or many more than 10<sup>7</sup>.
 In the former case, we might be the only extant civilization; in the latter case, the Galaxy is filled with them. 
-The value of <span class="math">N</span> depends very critically on our expectation for the lifetime of an average advanced community. 
+The value of <i>N</i> depends very critically on our expectation for the lifetime of an average advanced community. 
 It seems reasonable to me that at least a few percent of the advanced technical civilizations in the Galaxy do not destroy themselves, nor lose interest in interstellar communication, nor suffer insuperable biological or geological catastrophes, and that their lifetimes, therefore, are measured on stellar evolutionary timescales. 
-As an average for all technical civilizations, both short-lived and long-lived, I adopt <span class="math">L &sim; 10<sup>7</sup></span> years. 
+As an average for all technical civilizations, both short-lived and long-lived, I adopt <span class="math"><i>L</i> &sim; 10<sup>7</sup></span> years. 
 This then yields as the average number of extant advanced technical civilizations in the Galaxy 
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="N \approx 10^6" display="block">
@@ -185,7 +185,7 @@ This then yields as the average number of extant advanced technical civilization
 
 Thus, approximately 0.001 percent of the stars in the sky will have a planet upon which an advanced civilization resides. 
 The most probable distance to the nearest such community is then several hundred light years. 
-(In the Space Science Board Conference on Intelligent Extraterrestrial Life, previously mentioned, the individual values of <span class="math">N</span> selected lay between 10<sup>4</sup> and 10<sup>9</sup> civilizations. 
+(In the Space Science Board Conference on Intelligent Extraterrestrial Life, previously mentioned, the individual values of <i>N</i> selected lay between 10<sup>4</sup> and 10<sup>9</sup> civilizations. 
 The corresponding range of distances to the nearest advanced community is then between ten and several thousands of light years.) &#9650;<!--\bigtriangleup-->
 
 

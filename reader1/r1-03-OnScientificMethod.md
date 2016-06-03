@@ -4,7 +4,7 @@ author: Percy W. Bridgman
 title: On Scientific Method
 exerpt: Scientists often stress that there Is no single scientific method.
     Bridgman emphasizes this freedom to choose between many procedures, a freedom essential to science.
-    intro: An excerpt from his book <em>Reflections of a Physicist</em>, 1955.
+intro: An excerpt from his book <em>Reflections of a Physicist</em>, 1955.
 ---
 
 It seems to me that there is a good deal of ballyhoo about scientific method.

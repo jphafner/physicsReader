@@ -593,7 +593,7 @@ Weichart was used to thinking more quickly than other people, so when he saw hes
 
 &ldquo;I can make it clear with a picture.
 Here&#39;s the Earth.
-Let&#39;s suppose first that the cloud is moving dead towards us, like this, from <span class="math">A</span> to <span class="math">B</span>.
+Let&#39;s suppose first that the cloud is moving dead towards us, like this, from <var>A</var> to <var>B</var>.
 Then at B the cloud will look bigger but its centre will be in the same direction.
 This is the case that apparently corresponds pretty well to the observed situation.&rdquo;
 
@@ -608,9 +608,9 @@ There was a general murmur of assent, so Weichart went on:
 
 &ldquo;Now let&#39;s suppose that the cloud is moving sideways, as well as towards us, and let&#39;s suppose that the motion sideways is about as fast as the motion towards us.
 Then the cloud will move about like this.
-Now if you consider the motion from <span class="math">A</span> to <span class="math">B</span> you&#39;ll see that there are two effects&mdash;the cloud will seem bigger at <span class="math">B</span> than it was at <span class="math">A</span>,
+Now if you consider the motion from <var>A</var> to <var>B</var> you&#39;ll see that there are two effects&mdash;the cloud will seem bigger at <var>B</var> than it was at <var>A</var>,
     exactly as in the previous case, but now the centre will have moved.
-And it will move through the angle <span class="math">AEB</span> which must be something of the order of thirty degrees.&rdquo;
+And it will move through the angle <var>AEB</var> which must be something of the order of thirty degrees.&rdquo;
 
 
 &ldquo;I don&#39;t think the centre has moved through an angle of more than a quarter of a degree,&rdquo; remarked Marlowe.
@@ -825,40 +825,113 @@ I&#39;ll try to smooth your path there.&rdquo;
 
 &ldquo;Write a for the present angular diameter of the cloud, measured in radians,
 \begin{itemize}
-    \item[<span class="math">d</span>] for the linear diameter of the cloud,
-    \item[<span class="math">D</span>] for its distance away from us,
-    \item[<span class="math">V</span>] for its velocity of approach,
-    \item[<span class="math">T</span>] for the time required for it to reach the solar system.
+    \item[<var>d</var>] for the linear diameter of the cloud,
+    \item[<var>D</var>] for its distance away from us,
+    \item[<var>V</var>] for its velocity of approach,
+    \item[<var>T</var>] for the time required for it to reach the solar system.
 \end{itemize}
 
 To make a start, evidently we have $\alpha = \frac{d}{D}$
 
-Differentiate this equation with respect to time <span class="math">t</span> and we get
-\begin{equation}
-    \frac{d\alpha}{dt} = \frac{-d}{D^2} \frac{dD}{dt}
-\end{equation}
+Differentiate this equation with respect to time <var>t</var> and we get
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{d\alpha}{dt} = \frac{-d}{D^2} \frac{dD}{dt}" display="block">
+  <mrow>
+    <mfrac>
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>&alpha;</mi>
+      </mrow> 
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>t</mi>
+      </mrow> 
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mo>&minus;</mo>
+      <mrow>
+        <mo>&dd;</mo>
+      </mrow> 
+      <mrow> 
+        <msup>
+          <mi>D</mi>
+          <mn>T</mn>
+        </msup>
+      </mrow> 
+    </mfrac>
+    <mo>&InvisibleTimes;</mo>
+    <mfrac>
+      <mo>&minus;</mo>
+      <mrow>
+        <mo>&dd;</mo>
+        <mi>D</mi>
+      </mrow> 
+      <mrow> 
+        <msup>
+          <mi>&dd;</mi>
+          <mn>t</mn>
+        </msup>
+      </mrow> 
+    </mfrac>
+  </mrow>
+</math>
 
-But <span class="math">V = dD/dt</span> so that we can write <span class="math">$$\frac{d\alpha}{dt} = \frac{d}{D^2} V</span>. 
+But <span class="math"><i>V</i> = <i>dD/dt</i></span> so that we can write <span class="math">&dd;<i>&alpha;</i>&frasl;&dd;<i>t</i> = &dd;&frasl;d<i>D</i><sup>2</sup> <i>V</i></span>. 
 
-Also we have <span class="math">D/V = T</span>.
-Hence we can get rid of <span class="math">V</span>, arriving at
+Also we have <span class="math"><i>D/V</i> = <i>T</i></span>.
+Hence we can get rid of <var>V</var>, arriving at
 
-\begin{equation}
-    \frac{d\alpha}{dt} = \frac{d}{DT}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="\frac{d\alpha}{dt} = \frac{d}{DT}" display="block">
+  <mrow>
+    <mfrac>
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>&alpha;</mi>
+      </mrow> 
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>t</mi>
+      </mrow> 
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mrow> 
+        <mo>&dd;</mo>
+      </mrow> 
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>T</mi>
+      </mrow> 
+  </mrow>
+</math>
 
 This is turning out easier than I thought.
 Here&#39;s the answer already
 
-\begin{equation}
-    T = \alpha \frac{dt}{d\alpha}
-\end{equation}
+<math xmlns="http://www.w3.org/1998/Math/MathML" alttext="T = \alpha \frac{dt}{d\alpha}" display="block">
+  <mrow>
+    <mrow> 
+      <mn>T</mi>
+    </mrow> 
+    <mo>=</mo>
+    <mfrac>
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>t</mi>
+      </mrow> 
+      <mrow> 
+        <mo>&dd;</mo>
+        <mi>&alpha;</mi>
+      </mrow> 
+    </mfrac>
+  </mrow>
+</math>
 
-The last step is to approximate $\frac{dt}{d\alpha}$ by finite intervals,
-    $\frac{\Delta t}{\Delta\alpha}$,
-    where $\Delta t = 1$ month corresponding to the time difference between Dr. Jensen&#39;s two plates;
-    and from what Dr. Marlowe has estimated $\Delta \alpha$ is about 5 per cent of $\alpha$,
-    i.e. $\frac{\alpha}{\Delta\alpha} = 20$.
-Therefore $T = 20 \Delta t = 20$  months.&rdquo;
+The last step is to approximate &dd;<i>t</i>&frasl;&dd;<i>&alpha;</i> by finite intervals,
+    &Delta;<i>t</i>&frasl;&Delta;<i>&alpha;</i>,
+    where <span class="math">&Delta;<i>t</i> = 1</span>month corresponding to the time difference between Dr. Jensen&#39;s two plates;
+    and from what Dr. Marlowe has estimated $Delta;&alpha; is about 5 per cent of &alpha;,
+    i.e. <span class="math"><i>&alpha;</i>&frasl;&Delta;<i>&alpha;</i> = 20</span>.
+Therefore <span class="math">T = 20&Delta;<i>t</i> = 20</span>  months.&rdquo;
 
 
