@@ -1,8 +1,4 @@
 
-# Project specific
-/scripts/
-TODO.md
-
 # Gitbook specific
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
