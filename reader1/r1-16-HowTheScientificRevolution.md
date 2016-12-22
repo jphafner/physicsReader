@@ -6,12 +6,12 @@ exerpt: The effect of the rise of physics in the age of Galileo and Newton, part
 intro: An article from <em>A Short History of Science, Origins and Results of the Scientific Revolution</em>, 1951.
 ---
 
-<span class="textsc">In</span> order to get a bird&39;s-eye view of any century it is quite useful to imagine it as a stretch of country, or a landscape, which we are looking at from a great height, let us say from an aeroplane.
+<span class="textsc">In</span> order to get a bird&#39;s-eye view of any century it is quite useful to imagine it as a stretch of country, or a landscape, which we are looking at from a great height, let us say from an aeroplane.
 If we view the seventeenth century in this way we shall be struck immediately by the great contrast between the scenery and even the climate of its earlier and that of its later years.
 At first we get mountain ranges, torrents, and all the picturesque interplay of alternating storm and brightness; then, further on, the land slopes down to a richly cultivated plain, broken for a while by outlying heights and spurs, but finally becoming level country, watered by broad rivers, adorned with parks and mansions, and fit up by steady sunshine.
 The mountains connect backwards with the central medieval Alps, and the plain leads forwards with little break into our own times.
 To drop the metaphor before it begins to be misleading, we may say that the seventeenth century was an age of transition, and although every century can be so described, the seventeenth deserves this label better than most, because it hes between the Middle Ages and the modem world.
-It witnessed one of the greatest changes which have ever taken place in men&39;s ways of thinking about the world they five in.
+It witnessed one of the greatest changes which have ever taken place in men&#39;s ways of thinking about the world they five in.
 
 I happen to be interested in literature, amongst other things, and when I turn to this century I cannot help noticing that it begins with Shakespeare and Donne, leads on to Milton, and ends with Dryden and Swift: that is to say, it begins with a literature full of passion, paradox, imagination, curiosity and complexity, and ends with one distinguished rather by clarity, precision, good sense and definiteness of statement.
 The end of the century is the beginning of what has been called the Age of Prose and Reason, and we may say that by then the qualities necessary for good prose had got the upper hand over those which produce the greatest kinds of poetry.
@@ -40,35 +40,35 @@ Would it have helped or hindered that drift towards prose and reason, towards cl
 The great intellectual change was that known as the Scientific Revolution, and I think the answer to these questions is&mdash;Yes. 
 
 It is not for me to describe that revolution, or to discuss the great discoveries which produced it.
-My task is only to consider some of the effects it had upon men&39;s thoughts, imaginations and feelings, and consequently upon their ways of expressing themselves.
+My task is only to consider some of the effects it had upon men&#39;s thoughts, imaginations and feelings, and consequently upon their ways of expressing themselves.
 The discoveries&mdash;I am thinking mainly of the Copernican astronomy and the laws of motion as explored by Galileo and fully formulated by Newton&mdash;shocked men into realising that things were not as they had always seemed, and that the world they were living in was really quite different from what they had been taught to suppose.
 When the crystal spheres of the old world-picture were shattered, and the earth was shown to be one of many planets rolling through space, it was not everyone who greeted this revelation with enthusiasm as Giordano Bruno did.
 Many felt lost and confused, because the old picture had not only seemed obviously true to common sense, but was confirmed by Scripture and by Aristotle, and hallowed by the age-long approval of the Church.
 What Matthew Arnold said about the situation in the nineteenth century applies also to the seventeenth: religion had attached its emotion to certain supposed facts, and now the facts were failing it.
-You can hear this note of loss in Donne&39;s well-known lines:
+You can hear this note of loss in Donne&#39;s well-known lines:
 
 <blockquote>
 And new philosophy calls all in doubt;
 
 The element of fire is quite put out;
 
-The sun is lost, and th&39; earth, and no man&39;s wit
+The sun is lost, and th&#39; earth, and no man&#39;s wit
 
 Can well direct him where to look for it.
 </blockquote>
 
 Not only &lsquo;the element of fire&rsquo;, but the very distinction between heaven and earth had vanished&mdash;the distinction, I mean, between the perfect and incorruptible celestial bodies from the moon upwards, and the imperfect and corruptible terrestrial bodies below it.
-New stars had appeared, which showed that the heavens could change, and the telescope revealed irregularities in the moon&39;s surface&mdash;that is, the moon was not a perfect sphere, as a celestial body should be.
+New stars had appeared, which showed that the heavens could change, and the telescope revealed irregularities in the moon&#39;s surface&mdash;that is, the moon was not a perfect sphere, as a celestial body should be.
 So Sir Thomas Browne could write:
 
 <blockquote>
-    &lsquo;While we look for incorruption in the heavens, we find they are but like the earth;&mdash;durable in their main bodies, alterable in their parts; whereof, besides comets and new stars, perspectives (i.e. telescopes) begin to tell tales, and the spots that wander about the sun, with Phaeton&39;s favour, would make clear conviction.&rsquo;
+    &lsquo;While we look for incorruption in the heavens, we find they are but like the earth;&mdash;durable in their main bodies, alterable in their parts; whereof, besides comets and new stars, perspectives (i.e. telescopes) begin to tell tales, and the spots that wander about the sun, with Phaeton&#39;s favour, would make clear conviction.&rsquo;
 </blockquote>
 
 Naturally it took a long time for these new ideas to sink in, and Milton still treats the old and the new astronomies as equally acceptable alternatives.
 The Copernican scheme, however, was generally accepted by the second half of the century.
 By that time the laws governing the motion of bodies on earth had also been discovered, and finally it was revealed by Newton that the law whereby an apple falls to the ground is the very same as that which keeps the planets in their courses.
-The realisation of this vast unifying idea meant a complete re-focusing of men&39;s ideas about God, Nature and Man, and the relationships between them.
+The realisation of this vast unifying idea meant a complete re-focusing of men&#39;s ideas about God, Nature and Man, and the relationships between them.
 The whole cosmic movement, in the heavens and on earth, must now be ascribed no longer to a divine pressure acting through the Primum Mobile, and angelic intelligences controlling the spheres, but to a gravitational pull which could be mathematically calculated.
 The universe turned out to be a Great Machine, made up of material parts which all moved through space and time according to the strictest rules of mechanical causation.
 That is to say, since every effect in nature had a physical cause, no room or need was left for supernatural agencies, whether divine or diabolical; every phenomenon was explicable in terms of matter and motion, and could be mathematically accounted for or predicted. As Sir James Jeans has said:
@@ -84,26 +84,26 @@ First, it produced a distrust of all tradition, a determination to accept nothin
 You find Bacon rejecting the philosophy of the medieval Schoolmen, Browne writing a long exposure of popular errors and superstitions (such as the belief that a toad had a jewel in its head, or that an elephant had no joints in its legs), Descartes resolving to doubt everything&mdash;even his own senses&mdash;until he can come upon something clear and certain, which he finally finds in the fact of his own existence as a thinking being.
 Thus the chief intellectual task of the seventeenth century became the winnowing of truth from error, fact from fiction or fable.
 Gradually a sense of confidence, and even exhilaration, set in; the universe seemed no longer mysterious or frightening; everything in it was explicable and comprehensible.
-Comets and eclipses were no longer dreaded as portents of disaster; witchcraft was dismissed as an old wives&39; tale.
-This new feeling of security is expressed in Pope&39;s epitaph on Newton:
+Comets and eclipses were no longer dreaded as portents of disaster; witchcraft was dismissed as an old wives&#39; tale.
+This new feeling of security is expressed in Pope&#39;s epitaph on Newton:
 
 <blockquote>
-Nature and Nature&39;s laws lay hid in night;
+Nature and Nature&#39;s laws lay hid in night;
 
 God said, Let Newton be! and all was light!
 </blockquote>
 
-How did all this affect men&39;s religious beliefs?
+How did all this affect men&#39;s religious beliefs?
 The effect was very different from that of Darwinism on nineteenth century religion.
 In the seventeenth century it was felt that science had produced a conclusive demonstration of God, by showing the evidence of His wisdom and power in the Creation.
 True, God came to be thought of rather as an abstract First Cause than as the personal, ever-present God of religion; the Great Machine implied the Great Mechanic, but after making the machine and setting it in motion God had, as it were, retired from active superintendence, and left it to run by its own laws without interference.
-But at a time when inherited religious sentiment was still very powerful, the idea that you could look up through Nature to Nature&39;s God seemed to offer an escape from one of the worst legacies of the past&mdash;religious controversy and sectarian intolerance.
+But at a time when inherited religious sentiment was still very powerful, the idea that you could look up through Nature to Nature&#39;s God seemed to offer an escape from one of the worst legacies of the past&mdash;religious controversy and sectarian intolerance.
 Religion had been endangered by inner conflict; what could one believe, when the Churches were all at daggers drawn?
 Besides, the secular and rational temper brought in by the new science soon began to undermine the traditional foundations of belief.
 If nothing had ever happened which could not be explained by natural, physical causes, what about the supernatural and miraculous events recorded in the Bible?
 This was a disturbing thought, and even in the seventeenth century there were a few who began to doubt the literal truth of some of the biblical narratives.
 But it was reserved for the eighteenth century to make an open attack upon the miraculous elements in Christianity, and to compare the Old Testament Jehovah disparagingly with the &lsquo;Supreme Being&rsquo; or &lsquo;First Cause&rsquo; of philosophy.
-For the time, it was possible to feel that science was pious, because it was simply engaged in studying God&39;s own handiwork, and because whatever it disclosed seemed a further proof of His almighty skill as designer of the universe.
+For the time, it was possible to feel that science was pious, because it was simply engaged in studying God&#39;s own handiwork, and because whatever it disclosed seemed a further proof of His almighty skill as designer of the universe.
 Addison exactly expressed this feeling when he wrote:
 
 <blockquote>
@@ -115,9 +115,9 @@ And spangled heavens, a shining frame.
 
 Their great Original proclaim.
 
-Th&39; unwearied Sun from day to day
+Th&#39; unwearied Sun from day to day
 
-Does his Creator&39;s power display;
+Does his Creator&#39;s power display;
 
 And publishes to every land
 
@@ -142,6 +142,6 @@ But no such thoughts worried the men of the Augustan Age; their prevailing feeli
 The modem belief in progress takes its rise at this time; formerly it had been thought that perfection lay in antiquity, and that subsequent history was one long decline.
 But now that Bacon, Boyle, Newton and Locke had arisen, who could deny that the ancients had been far surpassed?
 Man could now hope to control his environment as never before, and who could say what triumphs might not lie ahead?
-Even if we feel that the victory of science was then won at the expense of some of man&39;s finer faculties, we can freely admit that it brought with it many good gifts as well&mdash;tolerance, reasonableness, release from fear and superstition—and we can pardon, and even envy, that age for its temporary self-satisfaction.
+Even if we feel that the victory of science was then won at the expense of some of man&#39;s finer faculties, we can freely admit that it brought with it many good gifts as well&mdash;tolerance, reasonableness, release from fear and superstition—and we can pardon, and even envy, that age for its temporary self-satisfaction.
 
 
