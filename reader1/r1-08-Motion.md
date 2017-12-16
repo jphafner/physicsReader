@@ -88,6 +88,8 @@ At the end of 2 seconds, it has fallen 64 feet, at the end of 3 seconds, 144 fee
 The formula for this curve can be written as
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="s=16t^{2}" display="block" id="eq8-1">
+  /* TODO: for indentation */
+  <mspace depth="0.5ex" height="0.5ex" width="1ex"/>
   <mrow>
     <mi>s</mi>
     <mo>=</mo>
@@ -412,9 +414,10 @@ The equation reduces to,
 <math xmlns="http://www.w3.org/1998/Math/MathML" alttext="v(at time t_0)=32 t_{0}" display="block">
   <mrow>
     <mi>v</mi>
-    <mfenced>
+    /* TODO: was originally <mfenced> */
+    <mpadded lspace="1ex" width="+2ex">
       <mtext>at time <i>t</i><sub>0</sub></mtext>
-    </mfenced>
+    </mpadded>
     <mo>=</mo>
     <mrow>
       <mn>32</mn>
