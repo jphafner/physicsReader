@@ -255,7 +255,8 @@ A lot of nonsense has been talked about transmutations.
 Our interest in the matter is purely scientific.&rdquo;
 
 
-That statement, which was made only nine years before the first pile worked, was not intended to be either optimistic or pessimistic.
+That statement, which was made only nine years before the first pile worked,
+    was not intended to be either optimistic or pessimistic.  
 It was just a forecast, and it was wrong.
 
 
@@ -326,7 +327,7 @@ He called Rutherford &ldquo;the Crocodile,&rdquo; explaining the crocodile means
 He flattered Rutherford outrageously, and Rutherford loved it.
 Kapitsa could be as impertinent as a Dostoevskian comedian: but he had great daring and scientific insight.
 He established the club named after him (which again inspired some envy): it met every Tuesday night, in Kapitsa&#39;s rooms in Trinity, and was deliberately kept small, about thirty, apparently because Kapitsa wanted to irritate people doing physical subjects he disapproved of.
-We used to drink large cups of milky coffee immediately after hall (living was fairly simple, and surprisingly non-alcoholic, in scientific Cambridge), and someone gave a talk&emdash;often a dramatic one, like Chadwick*s on the neutron.
+We used to drink large cups of milky coffee immediately after hall (living was fairly simple, and surprisingly non-alcoholic, in scientific Cambridge), and someone gave a talk&emdash;often a dramatic one, like Chadwick&#39;s on the neutron.
 Several of the major discoveries of the thirties were first heard in confidence in that room.
 I don&#39;t think that the confidence was ever broken.
 
